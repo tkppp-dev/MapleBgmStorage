@@ -1,0 +1,34 @@
+<nav id="nav" class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <div class="container-fluid">
+        <a id="main-anker" class="navbar-brand" href="#">Maple BGM Storage</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon" ></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-sm-0">
+                <li class="nav-item">
+                    <a id="home-anker" class="nav-link" aria-current="page" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a id="playlist-anker" class="nav-link" href="#">PlayList</a>
+                </li>
+                <li class="nav-item">
+                    <a id="search-anker" class="nav-link" href="#">Search</a>
+                </li>
+            </ul>
+            {% if user and user.id %}
+            <div class="row justify-content-end">
+                <button class="btn btn-sm btn-outline-primary ms-2 col-auto" onclick="goMyPage()">MY</button>
+                <button class="btn btn-sm btn-outline-primary mx-2 col-auto" onclick="logout()">Logout</button>
+            </div>
+            {% else %}
+            <div class="row justify-content-end">
+                <button class="btn btn-sm btn-outline-primary ms-2 col-auto" onclick="goJoinPage()">Sign Up</button>
+                <button class="btn btn-sm btn-outline-primary mx-2 col-auto" onclick="goLoginPage()">Login</button>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</nav>

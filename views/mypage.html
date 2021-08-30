@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% include "container/bootstrap&axios.html" %}
+    <link href="./css/player.css" rel="stylesheet">
+    <title>{{title}}</title>
+</head>
+<body>
+    {% include "container/nav.html" %}
+    <div class="container-sm py-3">
+        <div class="row justify-content-center">
+            <div class="col-auto" style="font-size: 20px;">
+                내 정보
+                <hr class="my-1 mx-0">
+            </div>
+        </div>
+    </div>
+    <script src="./js/nav.js"></script>
+    <script>
+        window.onload = function(){
+        }
+    </script>
+</body>
+</html>

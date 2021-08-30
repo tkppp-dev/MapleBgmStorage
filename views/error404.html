@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% include "container/bootstrap&axios.html" %}
+    <title>{{title}}</title>
+</head>
+
+<body>
+    {% include "container/nav.html" %}
+    <div class="container">
+        <div class="row justify-content-center mt-5 mb-3">
+            <div class="col-auto">
+                <img src="./images/error-404.png" alt="" style="height : 240px">
+            </div>
+        </div>
+        <div class="row justify-content-center mt-5 mb-3">
+            <h5 class="col-auto">해당 페이지를 찾을 수 없습니다</h5>
+        </div>
+        <div class="row justify-content-center mt-3 mb-3">
+            <button id="move-btn" class="btn btn-lg border-dark border-2 col-auto">메인 페이지로 이동</button>
+        </div>
+    </div>
+    <script src="./js/nav.js"></script>
+    <script>
+        window.onload = function(){
+            const moveBtn = document.getElementById('move-btn')
+
+            moveBtn.addEventListener('click',() => {
+                location.href = `http://${location.host}/`
+            })
+        }
+    </script>
+</body>
+
+</html>

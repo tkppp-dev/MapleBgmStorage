@@ -1,0 +1,74 @@
+.control-panel {
+    width: 26px;
+    height: 26px;
+}
+.control-panel-function {
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+}
+
+.control-panel-move {
+    margin-top: 7px;
+}
+
+.control-panel-play {
+    width: 40px;
+    height: 40px;
+}
+.control-panel-pause {
+    width: 40px;
+    height: 40px;
+    display: none;
+}
+
+#player {
+    width: 276px;
+    background-color: lightgrey;
+}
+
+@media (max-width : 991px){
+    .wide-player {
+        display: none;
+    }
+}
+
+@media (min-width : 992px){
+    #bottom-player{
+        display: none;
+    }
+}
+
+#bottom-player {
+    position: fixed; 
+    bottom : 0;
+    z-index: 100;
+    background-color: lightgrey;
+}
+
+#current-play-list {
+    overflow: scroll;
+}
+
+#current-playing-item {
+    background-color: white;
+}
+
+.bgm-title {
+    white-space : nowrap; 
+    height : 24px; 
+    overflow : hidden; 
+    text-overflow : ellipsis; 
+    font-size : 14px;
+    margin-top : 8px;
+}
+
+#bgm-thumbnail{
+    width : 252px;
+}
+
+.volume-range {
+    width : 80px; 
+    height: 20px; 
+    margin-top : 10px
+}

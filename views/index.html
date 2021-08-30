@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% include "container/bootstrap&axios.html" %}
+    <link href="./css/player.css" rel="stylesheet">
+    <link href="./css/shortcut.css" rel="stylesheet">
+    <link href="./css/upscroll.css" rel="stylesheet">
+    <title>{{title}}</title>
+    <style>
+        .modal-footer {
+            border-top: 0;
+        }
+    </style>
+    <script>
+        history.scrollRestoration = "manual"
+    </script>
+</head>
+
+<body>
+    {% include "container/nav.html" %}
+    <main class="container-fluid">
+        <div class="row">
+            {% include "container/player.html" %}
+            <div id="main" class="col">
+                <!-- BGM List -->
+                <div id="bgm-list" class="mt-2">
+                    {# Category1 #}
+                    {% for cat1 in data %}
+                    <div class="world-list-item mt-4">
+                        <h3 id="{{cat1.data.engName}}">{{cat1.data.name}}</h3>
+                        <hr>
+                    </div>
+                    {# Category2 #}
+                    {% for cat2 in cat1.child %}
+                    <div id="{{cat2.data.engName}}" class="continent-list-item mt-4">
+                        <h4 class="ps-2">{{cat2.data.name}}</h4>
+                        <hr>
+                    </div>
+                    {% for item in cat2.childBgm %}
+                    <div id="{{item.id}}" class="bgm-item row border-bottom mx-1">
+                        <div class="col py-1" onclick="playBgm('{{item.id}}')" role="button">
+                            {{ item.name }}
+                        </div>
+                        {% if user and user.id %}
+                        <div role="button" data-bs-toggle="modal" data-bs-target="#listSelectModal"
+                            class="bgmId-{{item.id}} add-playlist col-auto">
+                            <img src="./images/add-playlist.png" style="width: 20px; height: 20px;">
+                        </div>
+                        {% endif %}
+                    </div>
+                    {% endfor %}
+                    {# Category3 #}
+                    {% for cat3 in cat2.child %}
+                    <div id="{{cat3.data.engName}}" class="town-list-item mt-4">
+                        <h5 class="ps-2">{{cat3.data.name}}</h5>
+                        <hr>
+                    </div>
+                    {% for item in cat3.childBgm %}
+                    <div id="{{item.id}}" class="bgm-item row border-bottom mx-1">
+                        <div class="col py-1" onclick="playBgm('{{item.id}}')" role="button">
+                            {{ item.name }}
+                        </div>
+                        {% if user and user.id %}
+                        <div role="button" data-bs-toggle="modal" data-bs-target="#listSelectModal"
+                            class="bgmId-{{item.id}} add-playlist col-auto">
+                            <img src="./images/add-playlist.png" style="width: 20px; height: 20px;">
+                        </div>
+                        {% endif %}
+                    </div>
+                    {% endfor %}
+
+                    {% endfor %}
+                    {% endfor %}
+                    {% endfor %}
+                </div>
+                <div id="bottom-blank"></div>
+            </div>
+            {% include "container/addPlaylist.html" %}
+            <div id="open-shortcut-btn" class="px-1 py-2 border shadow-lg" role="button"
+                data-bs-toggle="offcanvas" data-bs-target="#offcanvas-shortcut" aria-controls="offcanvas-shortcut">
+                <img id="open-left-img" src="./images/open-side-list.png" class="me-1">
+            </div>
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas-shortcut"
+                aria-labelledby="offcanvas-shortcutLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel">카테고리 찾기</h5>
+                    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
+                        aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body pt-0">
+                    <div id="shortcut-world">
+                        {% for cat1 in data %}
+                        <div role="button" data-bs-toggle="collapse" href="#list-{{cat1.data.engName}}">
+                            {{ cat1.data.name }}
+                        </div>
+                        <div id="list-{{cat1.data.engName}}" class="collapse" role="button">
+                            {% for cat2 in cat1.child %}
+                            {% if cat2.child | length == 0 %}
+                            <div class="ms-2">
+                                <a href="#{{cat2.data.engName}}" class="list-anker-item">{{cat2.data.name}}</a>
+                            </div>
+                            {% else %}
+                            <div class="ms-2" role="button" data-bs-toggle="collapse" href="#list-{{cat2.data.engName}}">
+                                {{ cat2.data.name }}
+                            </div>
+                            <div id="list-{{cat2.data.engName}}" class="collapse" role="button">
+                                {% for cat3 in cat2.child %}
+                                <div class="ms-4">
+                                    <a href="#{{cat3.data.engName}}" class="list-anker-item">{{cat3.data.name}}</a>
+                                </div>
+                                {% endfor %}
+                            </div>
+                            {% endif %}
+                            {% endfor %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            {% include "container/upscroll-btn.html" %}
+    </main>
+    <script src="./js/nav.js"></script>
+    <script src="./js/player.js"></script>
+    <script src="./js/upscroll.js"></script>
+</body>
+
+</html>

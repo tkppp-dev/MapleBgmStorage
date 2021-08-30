@@ -1,0 +1,27 @@
+const express = require('express')
+const returnListController = require('./returnListController')
+const returnMyListController = require('./returnMyListController')
+const returnListLikeController = require('./returnListLikeController')
+const returnNextListController = require('./returnNextListController')
+const createListController = require('./createListController')
+const createListLikeController = require('./createListLikeController')
+const addListItemController = require('./addListItemController')
+const deleteListController = require('./deleteListController')
+const deleteListItemController = require('./deleteListItemController')
+const deleteListLikeController = require('./deleteListLikeController')
+const { isLogin } = require('../middlewares/authMiddleware')
+
+const router = express.Router()
+
+router.get('/', returnListController)
+router.get('/mylist', returnMyListController)
+router.get('/like', returnListLikeController)
+router.get('/nextList', returnNextListController)
+router.post('/', isLogin, createListController)
+router.post('/item', isLogin, addListItemController)
+router.post('/like', createListLikeController)
+router.delete('/', isLogin, deleteListController)
+router.delete('/item',isLogin, deleteListItemController)
+router.delete('/like', deleteListLikeController)
+
+module.exports = router

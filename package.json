@@ -1,0 +1,33 @@
+{
+  "name": "maple-bgm",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon app"
+  },
+  "author": "tkppp",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "iconv": "^3.0.0",
+    "iconv-lite": "^0.4.24",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.2.5",
+    "node-id3": "^0.2.3",
+    "nunjucks": "^3.2.3",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "nodemon": "^2.0.12"
+  }
+}

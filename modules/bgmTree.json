@@ -1,0 +1,2671 @@
+{
+  "메이플 월드": {
+    "engName": "maple-world",
+    "메이플 아일랜드": {
+      "engName": "maple-island",
+      "bgmList": [
+        {
+          "id": 1,
+          "name": "Go Fight! Show Your Energy! ~Instrumental~ [모험가 스토리 - 암허스트 외곽,메이플 아일랜드]"
+        },
+        {
+          "id": 2,
+          "name": "Maple Leaf [메이플 아일랜드]"
+        },
+        {
+          "id": 3,
+          "name": "Wounded Leaf [공격당한 메이플 아일랜드,메이플 아일랜드]"
+        }
+      ]
+    },
+    "빅토리아 아일랜드": {
+      "engName": "victoria-island",
+      "bgmList" : [
+        {
+          "id": 6,
+          "name": "Gold Beach [골드비치,빅토리아 아일랜드]"
+        }
+      ],
+      "리스항구": {
+        "engName": "lith-harbor",
+        "bgmList": [
+          {
+            "id": 4,
+            "name": "Above The Treetops [리스항구,빅토리아 아일랜드]"
+          }
+        ]
+      },
+      "헤네시스": {
+        "engName": "henesys",
+        "bgmList": [
+          {
+            "id": 5,
+            "name": "BlueSky [꿈꾸는 오솔길,(구)니은숲,헤네시스]"
+          },
+          {
+            "id": 7,
+            "name": "Dragon Dream [에반 튜토리얼 꿈속,헤네시스]"
+          },
+          {
+            "id": 8,
+            "name": "CavaBien [바람꽃수풀,헤네시스]"
+          },
+          {
+            "id": 9,
+            "name": "Floral Life [헤네시스]"
+          },
+          {
+            "id": 10,
+            "name": "Flower Violeta [버섯의 성 엔딩,헤네시스]"
+          },
+          {
+            "id": 11,
+            "name": "Go Picnic [헤네시스 시장,헤네시스]"
+          },
+          {
+            "id": 12,
+            "name": "Mushroom Castle [버섯의 성,헤네시스]"
+          },
+          {
+            "id": 13,
+            "name": "Pathfinder [패스파인더,헤네시스]"
+          },
+          {
+            "id": 14,
+            "name": "Rest N Peace [헤네시스 필드,헤네시스]"
+          },
+          {
+            "id": 15,
+            "name": "The Partem Ruins [파르템 유적,헤네시스]"
+          },
+          {
+            "id": 16,
+            "name": "The Village Of Karupa [카루파의 마을,헤네시스]"
+          },
+          {
+            "id": 17,
+            "name": "Viking Ship [바이킹 비행선,헤네시스]"
+          },
+          {
+            "id": 18,
+            "name": "Viking Skipper [바이킹 선장실,헤네시스]"
+          },
+          {
+            "id": 19,
+            "name": "War MushCastle [성벽 위,마천루,헤네시스]"
+          }
+        ]
+      },
+      "커닝시티": {
+        "engName": "kerning-city",
+        "bgmList": [
+          {
+            "id": 20,
+            "name": "Bad Guys [커닝시티]"
+          },
+          {
+            "id": 21,
+            "name": "JungleBook [늪지대,커닝시티]"
+          },
+          {
+            "id": 22,
+            "name": "Kerning Square Field [커닝스퀘어 필드,커닝시티]"
+          },
+          {
+            "id": 23,
+            "name": "Kerning Square Subway [생방송 데뷔 무대 락 스피릿,정비중인 지하철,커닝시티]"
+          },
+          {
+            "id": 24,
+            "name": "Kerning Square [(구)커닝스퀘어,커닝시티]"
+          },
+          {
+            "id": 25,
+            "name": "Kerning Square [커닝스퀘어,커닝시티]"
+          },
+          {
+            "id": 26,
+            "name": "Little Maple Planet [파퀘 첫번째 동행 마지막 관문 - 킹슬라임,14주년 우주 Like 메이플 - 행성 쁘띠 리틀 메이플 플래닛,커닝시티]"
+          },
+          {
+            "id": 27,
+            "name": "Love In the Afternoon [커닝타워,커닝시티]"
+          },
+          {
+            "id": 28,
+            "name": "Secret Flower [비화원,커닝시티]"
+          },
+          {
+            "id": 29,
+            "name": "Subway [커닝시티 지하철,커닝시티]"
+          }
+        ]
+      },
+      "페리온": {
+        "engName": "perion",
+        "bgmList": [
+          {
+            "id": 30,
+            "name": "Acient Remain [유적 발굴지,페리온]"
+          },
+          {
+            "id": 31,
+            "name": "Highland Star [돌무지 황야,불타버린 땅,페리온]"
+          },
+          {
+            "id": 32,
+            "name": "Nightmare [페리온]"
+          },
+          {
+            "id": 33,
+            "name": "Ruin Castle [군영,페리온]"
+          },
+          {
+            "id": 34,
+            "name": "Where The Barlog From [(구)전사의 성전,페리온]"
+          }
+        ]
+      },
+      "엘리니아": {
+        "engName": "ellinia",
+        "bgmList": [
+          {
+            "id": 35,
+            "name": "Elf wood [(구)마법 도서관,엘리니아]"
+          },
+          {
+            "id": 36,
+            "name": "Luens House [루엔의 집,엘리니아]"
+          },
+          {
+            "id": 37,
+            "name": "Missing You [나무줄기둥지,엘리니아]"
+          },
+          {
+            "id": 38,
+            "name": "MoleKing Rises [야외 연극 무대 몰 킹,엘리니아]"
+          },
+          {
+            "id": 39,
+            "name": "Moonlight Shadow [엘리니아 필드,엘리니아]"
+          },
+          {
+            "id": 40,
+            "name": "Secret Elodin [비밀의 숲 엘로딘,엘리니아]"
+          },
+          {
+            "id": 41,
+            "name": "The Fairy Academy [요정학원 엘리넬,엘리니아]"
+          },
+          {
+            "id": 42,
+            "name": "The Fairy Forest [한 여름밤의 숲,엘리넬 호수,엘리니아]"
+          },
+          {
+            "id": 43,
+            "name": "When The Morning Comes [엘리니아]"
+          }
+        ]
+      },
+      "노틸러스": {
+        "engName": "nautilus",
+        "bgmList": [
+          {
+            "id": 44,
+            "name": "Beach Way [플로리나 비치,메이플 월드]"
+          },
+          {
+            "id": 45,
+            "name": "In Nautilus [노틸러스]"
+          },
+          {
+            "id": 46,
+            "name": "Nautilus [노틸러스 선착장,코코섬,노틸러스]"
+          }
+        ]
+      },
+      "루타비스": {
+        "engName": "root-abyss",
+        "bgmList": [
+          {
+            "id": 47,
+            "name": "Abyss Cave [북쪽정원 심연의 동굴 벨룸,루타비스]"
+          },
+          {
+            "id": 48,
+            "name": "Joyful Tea Party [서쪽정원 오후의 티 테이블 피에르,루타비스]"
+          },
+          {
+            "id": 49,
+            "name": "Queen Palace [남쪽정원 여왕의 성 블러디 퀸,루타비스]"
+          },
+          {
+            "id": 50,
+            "name": "Time Chaos [동쪽정원 시간의 틈새 반반,루타비스]"
+          },
+          {
+            "id": 51,
+            "name": "Yggdrasil Prayer [거대한 뿌리,루타비스]"
+          }
+        ]
+      },
+      "세레니티": {
+        "engName": "serenity",
+        "bgmList": [
+          {
+            "id": 52,
+            "name": "Burning Woods [루미너스 스토리 - 파괴된 라니아의 집,세레니티]"
+          },
+          {
+            "id": 53,
+            "name": "DarkMage [루미너스 튜토리얼 - 검은 마법사의 방,세레니티]"
+          },
+          {
+            "id": 54,
+            "name": "DarkWoods [어둠에 물든 엘리니아 깊은 숲 속,세레니티]"
+          },
+          {
+            "id": 55,
+            "name": "Final Fight [루미너스 튜토리얼 - 시간의 신전 회랑,세레니티]"
+          },
+          {
+            "id": 56,
+            "name": "Flood [루미너스 스토리 - 운명의 갈림길,세레니티] "
+          },
+          {
+            "id": 57,
+            "name": "Peaceful Woods [라니아의 집,세레니티]"
+          },
+          {
+            "id": 58,
+            "name": "Serenity [세레니티]"
+          },
+          {
+            "id": 59,
+            "name": "Speak In The Void [검은 마법사의 전언,세레니티]"
+          }
+        ]
+      },
+      "슬리피우드": {
+        "engName": "sleepywood",
+        "bgmList": [
+          {
+            "id": 60,
+            "name": "Ancient Move [개미굴,슬리피우드]"
+          },
+          {
+            "id": 61,
+            "name": "Evil Eyes [저주받은 신전,슬리피우드]"
+          },
+          {
+            "id": 62,
+            "name": "SleepyWood [슬리피우드]"
+          }
+        ]
+      },
+      "에우렐": {
+        "engName": "elluel",
+        "bgmList": [
+          {
+            "id": 63,
+            "name": "Flower In Blue [메르세데스 튜토리얼,에우렐]"
+          },
+          {
+            "id": 64,
+            "name": "Sound Of Elf [엘프의 정신 강림,에우렐]"
+          },
+          {
+            "id": 65,
+            "name": "Wind And Flower [요정의 숲 에우렐]"
+          }
+        ]
+      },
+      "크리스탈 가든": {
+        "engName": "crystal-garden",
+        "bgmList": [
+          {
+            "id": 66,
+            "name": "Dancing Witn The Moon [크리스탈 가든 수련장 & 항해,크리스탈 가든]"
+          },
+          {
+            "id": 67,
+            "name": "Fly to the Moon [크리스탈 가든]"
+          },
+          {
+            "id": 68,
+            "name": "Injustice [팬텀 튜토리얼 - 에레브 대회의장,크리스탈 가든]"
+          }
+        ]
+      }
+    },
+    "에레브": {
+      "engName": "ereve",
+      "bgmList": [
+        {
+          "id": 69,
+          "name": "Dominion [나이트워커 스킬,에레브]"
+        },
+        {
+          "id": 70,
+          "name": "Drill Hall [연무장,에레브]"
+        },
+        {
+          "id": 71,
+          "name": "Queens Garden [에레브]"
+        },
+        {
+          "id": 72,
+          "name": "Raindrop Flower [에레브 필드,에레브]"
+        }
+      ]
+    },
+    "리엔": {
+      "engName": "rien",
+      "bgmList": [
+        {
+          "id": 73,
+          "name": "Bamboo Gym [리엔 수련장,리엔]"
+        },
+        {
+          "id": 74,
+          "name": "Crystal Cave [거울 동굴 설귀도,리엔]"
+        },
+        {
+          "id": 75,
+          "name": "Glacier Adventure [리에나 해협,리엔]"
+        },
+        {
+          "id": 76,
+          "name": "Rien Village [리엔]"
+        },
+        {
+          "id": 77,
+          "name": "Sailing [해양 한가운데,리엔]"
+        },
+        {
+          "id": 78,
+          "name": "Snow Drop [리엔 필드,리엔]"
+        }
+      ]
+    },
+    "에델슈타인": {
+      "engName": "edelstein",
+      "bgmList": [
+        {
+          "id": 79,
+          "name": "Decisive Battle [데몬 튜토리얼 - 검은 마법사의 방 앞 회랑,에델슈타인]"
+        },
+        {
+          "id": 80,
+          "name": "Despair On Devil [데몬 튜토리얼 - 데몬의 고향 집,에델슈타인]"
+        },
+        {
+          "id": 81,
+          "name": "Edelstein City [에델슈타인]"
+        },
+        {
+          "id": 82,
+          "name": "Evolving World [이볼빙 시스템,에델슈타인]"
+        },
+        {
+          "id": 83,
+          "name": "Gelimer Lab [겔리메르 연구소,에델슈타인]"
+        },
+        {
+          "id": 84,
+          "name": "Haven Theme [기계무덤 헤이븐,에델슈타인]"
+        },
+        {
+          "id": 85,
+          "name": "Low Grade Ore [(구)광산입구,에델슈타인]"
+        },
+        {
+          "id": 86,
+          "name": "Low Grade Ore [광산입구,에델슈타인]"
+        },
+        {
+          "id": 87,
+          "name": "National Park [에델슈타인 필드,에델슈타인]"
+        },
+        {
+          "id": 88,
+          "name": "Power Station [레벤 광산,에델슈타인]"
+        },
+        {
+          "id": 89,
+          "name": "Underground Place [레지스탕스 본부,에델슈타인]"
+        }
+      ]
+    },
+    "엘나스 산맥": {
+      "engName": "el-nath-mts",
+      "오르비스": {
+        "engName": "orbis",
+        "bgmList": [
+          {
+            "id": 90,
+            "name": "Arab Pirate [크림슨 발록,오르비스]"
+          },
+          {
+            "id": 91,
+            "name": "Come With Me [오르비스 탑,오르비스]"
+          },
+          {
+            "id": 92,
+            "name": "Flying In A Blue Dream [루디브리엄 행,오르비스]"
+          },
+          {
+            "id": 93,
+            "name": "Krease Agit [파퀘 크리세의 크세르크세스 - 아지트,오르비스]"
+          },
+          {
+            "id": 94,
+            "name": "Krease Colosseum [파퀘 크리세의 크세르크세스 - 콜로세움,오르비스]"
+          },
+          {
+            "id": 95,
+            "name": "Krease Field [파퀘 크리세의 크세르크세스,오르비스]"
+          },
+          {
+            "id": 96,
+            "name": "Plot Of Pixie [파퀘 여신의 흔적 - 여신의 탑 정원 파파루스,오르비스]"
+          },
+          {
+            "id": 97,
+            "name": "Shinin' Harbor [오르비스]"
+          },
+          {
+            "id": 98,
+            "name": "Tower Of Goddess [파퀘 여신의 흔적 - 여신의 탑,오르비스]"
+          },
+          {
+            "id": 99,
+            "name": "Upon The Sky [빅토리아-오시리아 항해,오르비스]"
+          }
+        ]
+      },
+      "엘나스": {
+        "engName": "el-nath",
+        "bgmList": [
+          {
+            "id": 100,
+            "name": "Abondoned Mine [폐광,엘나스]"
+          },
+          {
+            "id": 101,
+            "name": "Blizzard Castle [사자왕의 성,엘나스]"
+          },
+          {
+            "id": 102,
+            "name": "Crimson Tower [탑루 - 장미정원,엘나스]"
+          },
+          {
+            "id": 103,
+            "name": "Final Fight [(구)자쿰의 제단 - 자쿰]"
+          },
+          {
+            "id": 104,
+            "name": "Hell Gate [시련의 동굴,엘나스]"
+          },
+          {
+            "id": 105,
+            "name": "Lion Heart [알현실 - 반레온,엘나스]"
+          },
+          {
+            "id": 106,
+            "name": "Mine Quest [자쿰 퀘스트 - 알려지지 않은 폐광,엘나스]"
+          },
+          {
+            "id": 107,
+            "name": "Snowy Village [엘나스]"
+          },
+          {
+            "id": 108,
+            "name": "Warm Regard [엘나스 필드,엘나스]"
+          },
+          {
+            "id": 109,
+            "name": "Welcome To The Hell [자쿰의 제단 - 자쿰,엘나스]"
+          },
+          {
+            "id": 110,
+            "name": "Wolf Wood [늑대의 영역,엘나스]"
+          }
+        ]
+      }
+    },
+    "아쿠아로드": {
+      "engName": "aqua-road",
+      "아쿠아리움": {
+        "engName": "aquarium",
+        "bgmList": [
+          {
+            "id": 111,
+            "name": "Aqua Cave [위험한 동굴 - 피아누스의 동굴,아쿠아리움]"
+          },
+          {
+            "id": 112,
+            "name": "Aquarium [아쿠아리움]"
+          },
+          {
+            "id": 113,
+            "name": "Blue World [아쿠아리움 필드1,아쿠아리움]"
+          },
+          {
+            "id": 114,
+            "name": "Deep See [심해,아쿠아리움]"
+          },
+          {
+            "id": 115,
+            "name": "Shining Sea [아쿠아리움 필드2,아쿠아리움]"
+          }
+        ]
+      },
+      "베리타스": {
+        "engName": "veritas",
+        "bgmList": [
+          {
+            "id": 116,
+            "name": "From Under To Upper [제논 튜토리얼 - 숨겨진 연구소 격납고,베리타스]"
+          },
+          {
+            "id": 117,
+            "name": "In All Verity [비밀연구기관 베리타스]"
+          },
+          {
+            "id": 118,
+            "name": "Pulse Resonance [베릴,베리타스]"
+          },
+          {
+            "id": 119,
+            "name": "The Photo [비어있는 집,베리타스]"
+          },
+          {
+            "id": 120,
+            "name": "Underside [제논 튜토리얼 - 숨겨진 연구소 실험실,베리타스]"
+          }
+        ]
+      },
+      "해저의 탑 더 시드": {
+        "engName": "the-seed",
+        "bgmList": [
+          {
+            "id": 121,
+            "name": "Amusing Story In The FairyTale [더 시드 보스층,해저의 탑 더 시드]"
+          },
+          {
+            "id": 122,
+            "name": "Hazard From Cave [더 시드 26,27,34층,해저의 탑 더 시드]"
+          },
+          {
+            "id": 123,
+            "name": "Jungle In The Sea [더 시드 11,12,13,14,33,48층,해저의 탑 더 시드]"
+          },
+          {
+            "id": 124,
+            "name": "Strange Sort Of Story [더 시드 47,49,50층 & 토토,도로시,해저의 탑 더 시드]"
+          },
+          {
+            "id": 125,
+            "name": "The Bottom Of The Sea [더 시드 쉼터,해저의 탑 더 시드]"
+          },
+          {
+            "id": 126,
+            "name": "Venture Into The Unkown [더 시드 로비,해저의 탑 더 시드]"
+          }
+        ]
+      }
+    },
+    "루더스 호수": {
+      "engName": "rudus-lake",
+      "루디브리엄": {
+        "engName": "ludibrium",
+        "bgmList": [
+          {
+            "id": 127,
+            "name": "Bizarre Tales [뒤틀린 회랑,루디브리엄]"
+          },
+          {
+            "id": 128,
+            "name": "Dark Shadow [파퀘 차원의 균열 - 탑의 암흑,루디브리엄]"
+          },
+          {
+            "id": 129,
+            "name": "FairyTale Diffvers [뒤틀린 시간의 길 3,4,루디브리엄]"
+          },
+          {
+            "id": 130,
+            "name": "FairyTale [뒤틀린 시간의 길 1,2,루디브리엄]"
+          },
+          {
+            "id": 131,
+            "name": "Fantasia [파퀘 차원의 균열 - 버려진 탑,루디브리엄]"
+          },
+          {
+            "id": 132,
+            "name": "Fantastic Thinking [루디브리엄]"
+          },
+          {
+            "id": 133,
+            "name": "Funny Time Maker [에오스탑,헬리오스탑,루디브리엄]"
+          },
+          {
+            "id": 134,
+            "name": "High Enough [에오스탑 외부,루디브리엄]"
+          },
+          {
+            "id": 135,
+            "name": "The Way Grotesque [잊혀진 회랑,루디브리엄]"
+          },
+          {
+            "id": 136,
+            "name": "They Menacing You [파퀘 차원의 균열 - 시공의 균열 알리샤르,루디브리엄]"
+          },
+          {
+            "id": 137,
+            "name": "Time Attack [시계탑의 근원 파풀라투스,루디브리엄]"
+          },
+          {
+            "id": 138,
+            "name": "TimelessB [잊혀진 시간의 길 3,4,루디브리엄]"
+          },
+          {
+            "id": 139,
+            "name": "Timeless [잊혀진 시간의 길 1,2,루디브리엄]"
+          },
+          {
+            "id": 140,
+            "name": "Waltz For Work [장난감공장,루디브리엄]"
+          },
+          {
+            "id": 141,
+            "name": "Wherever You Are [시간의 길,루디브리엄]"
+          }
+        ]
+      },
+      "지구방위본부": {
+        "engName": "omega-sector",
+        "bgmList": [
+          {
+            "id": 142,
+            "name": "Dances With Aliens [UFO 내부,지구방위본부]"
+          },
+          {
+            "id": 143,
+            "name": "Finding Forest [(구)쿨란 초원,지구방위본부]"
+          },
+          {
+            "id": 144,
+            "name": "For The Glory [격납고,지구방위본부]"
+          },
+          {
+            "id": 145,
+            "name": "Lets Hunt Aliens [(구)로스웰 초원,지구방위본부]"
+          },
+          {
+            "id": 146,
+            "name": "Lets Hunt Aliens [로스웰 초원,지구방위본부]"
+          },
+          {
+            "id": 147,
+            "name": "Lets March [(구)지구방위본부]"
+          },
+          {
+            "id": 148,
+            "name": "Lets March [지구방위본부]"
+          },
+          {
+            "id": 149,
+            "name": "Vacuum Cleaner [환풍구 D-77 카웅,지구방위본부]"
+          },
+          {
+            "id": 164,
+            "name": "Go Go Rangers! [메소다이저 X,송린아 결심,지구방위본부]"
+          }
+        ]
+      },
+      "아랫마을": {
+        "engName": "folk-town",
+        "bgmList": [
+          {
+            "id": 150,
+            "name": "Dancing With Ghosts [고스트파크 - 고스트하우스,아랫마을]"
+          },
+          {
+            "id": 151,
+            "name": "Dark Mountain [까막산,아랫마을]"
+          },
+          {
+            "id": 152,
+            "name": "Down Town [아랫마을]"
+          },
+          {
+            "id": 153,
+            "name": "This too shall pass away [금지된 절벽,아랫마을]"
+          },
+          {
+            "id": 154,
+            "name": "Unexpected crisis [아랫마을 퀘스트 진행 중 전투,아랫마을]"
+          },
+          {
+            "id": 155,
+            "name": "Welcome To The Creepy Ghost [고스트파크,아랫마을]"
+          }
+        ]
+      },
+      "엘린숲": {
+        "engName": "ellin-forest",
+        "bgmList": [
+          {
+            "id": 156,
+            "name": "Deep Cave [동굴 깊은 곳 차우,엘린숲]"
+          },
+          {
+            "id": 157,
+            "name": "Elin Cave [바위산 동굴,엘린숲]"
+          },
+          {
+            "id": 158,
+            "name": "Elin Forest [알테어 캠프,엘린숲]"
+          },
+          {
+            "id": 159,
+            "name": "Poison Forest [(구)파퀘 독안개의 숲,엘린숲]"
+          },
+          {
+            "id": 160,
+            "name": "Poison Forest [파퀘 독안개의 숲,엘린숲]"
+          },
+          {
+            "id": 161,
+            "name": "Queens Hide out [여왕의 은신처 에피네아,엘린숲]"
+          }
+        ]
+      },
+      "판타스틱 테마파크": {
+        "engName": "fantastic-theme-park",
+        "bgmList": [
+          {
+            "id": 162,
+            "name": "Fantastic Theme Park 2017 [판타스틱 테마파크,루디브리엄]"
+          },
+          {
+            "id": 163,
+            "name": "Fantastic Theme Park [판타스틱 애니멀쇼,루디브리엄]"
+          }
+        ]
+      }
+    },
+    "니할 사막": {
+      "engName": "nihal-desert",
+      "아리안트": {
+        "engName": "ariant",
+        "bgmList": [
+          {
+            "id": 172,
+            "name": "Ariant [아리안트,니할 사막]"
+          },
+          {
+            "id": 173,
+            "name": "Fight Sand [파퀘 아리안트 투기대회,니할 사막]"
+          },
+          {
+            "id": 174,
+            "name": "Hot Desert [(구)아리안트 필드,니할 사막]"
+          },
+          {
+            "id": 175,
+            "name": "HotDesert [아리안트 필드,니할 사막]"
+          },
+          {
+            "id": 176,
+            "name": "Nets Piramid [네트의 피라미드,니할 사막]"
+          },
+          {
+            "id": 177,
+            "name": "Sunset Desert [선셋로드 - 사헬지대,니할 사막]"
+          }
+        ]
+      },
+      "마가티아": {
+        "engName": "magatia",
+        "bgmList": [
+          {
+            "id": 171,
+            "name": "Dispute [마가티아,니할 사막]"
+          }
+        ]
+      },
+      "아스완": {
+        "engName": "aswan",
+        "bgmList": [
+          {
+            "id": 178,
+            "name": "In War time [(구)아스완 해방전,고대도시 아스완]"
+          },
+          {
+            "id": 179,
+            "name": "Red Witch [힐라의 탑,고대도시 아스완]"
+          },
+          {
+            "id": 180,
+            "name": "Rusty Throne [고대도시 아스완]"
+          }
+        ]
+      }
+    },
+    "무릉도원": {
+      "engName": "mureung-garden-conti",
+      "무릉도원": {
+        "engName": "mureung-garden",
+        "bgmList": [
+          {
+            "id": 181,
+            "name": "Mureung Forest [무릉 필드,무릉도원]"
+          },
+          {
+            "id": 182,
+            "name": "Mureung Hill [무릉도원]"
+          },
+          {
+            "id": 183,
+            "name": "Mureung School 1 [무릉도장 1,무릉도원]"
+          },
+          {
+            "id": 184,
+            "name": "Mureung School 2 [무릉도장 2,무릉도원]"
+          },
+          {
+            "id": 185,
+            "name": "Mureung School 3 무릉도장 3,무릉도원]"
+          },
+          {
+            "id": 186,
+            "name": "Mureung School 4 [무릉도장 4,무릉도원]"
+          }
+        ]
+      },
+      "백초마을": {
+        "engName": "white-herb-village",
+        "bgmList": [
+          {
+            "id": 187,
+            "name": "Pirate [빨간코 해적단 소굴,무릉도원]"
+          },
+          {
+            "id": 188,
+            "name": "White Herb [백초마을,무릉도원]"
+          }
+        ]
+      },
+      "황금사원": {
+        "engName": "gold-temple",
+        "bgmList": [
+          {
+            "id": 189,
+            "name": "Gold Temple Dungeon [버려진 사원,황금사원]"
+          },
+          {
+            "id": 190,
+            "name": "Gold Temple Field [수행자의 숲,황금사원]"
+          },
+          {
+            "id": 191,
+            "name": "Gold Temple Town [황금사원]"
+          }
+        ]
+      }
+    },
+    "미나르숲": {
+      "engName": "minar-forest",
+      "리프레": {
+        "engName": "leafre",
+        "bgmList": [
+          {
+            "id": 192,
+            "name": "Cave Of Hontale [생명의 동굴,리프레]"
+          },
+          {
+            "id": 193,
+            "name": "Dragon Load [용의 숲,리프레]"
+          },
+          {
+            "id": 194,
+            "name": "Acient Forest [켄타우로스의 영역,리프레]"
+          },
+          {
+            "id": 195,
+            "name": "Dragon Nest [용의 협곡,용의 둥지,리프레]"
+          },
+          {
+            "id": 196,
+            "name": "Dragon Rider [파퀘 드래곤 라이더 - 천공의 둥지,리프레]"
+          },
+          {
+            "id": 197,
+            "name": "HonTale [혼테일의 동굴 - 혼테일,리프레]"
+          },
+          {
+            "id": 198,
+            "name": "Leafre [리프레]"
+          },
+          {
+            "id": 199,
+            "name": "Minar's Dream [리프레 필드,리프레]"
+          }
+        ]
+      },
+      "네오시티": {
+        "engName": "neo-city",
+        "bgmList": [
+          {
+            "id": 200,
+            "name": "2021year - Park [2021년 평범한 마을,네오시티]"
+          },
+          {
+            "id": 201,
+            "name": "2099year - Odaiba [2099년 한밤의 항만 - 베르가모트,네오시티]"
+          },
+          {
+            "id": 202,
+            "name": "2215year - Akihabara [2215년 폭격을 맞은 도심 - 듀나스,네오시티]"
+          },
+          {
+            "id": 203,
+            "name": "2230year - Office [위험한 타워 - 오베론,네오시티]"
+          },
+          {
+            "id": 204,
+            "name": "2503year - Tokyo Sky [2503년 천공전함 헤르메스호 - 니벨룽겐 전함,네오시티]"
+          },
+          {
+            "id": 205,
+            "name": "Tera Forest [테라숲,리프레]"
+          }
+        ]
+      },
+      "암벽거인": {
+        "engName": "stone-colossus",
+        "bgmList": [
+          {
+            "id": 206,
+            "name": "The Colossal Heart [암벽 거인의 내부,리프레]"
+          },
+          {
+            "id": 207,
+            "name": "The Living Mountain [암벽 거인의 몸,리프레]"
+          },
+          {
+            "id": 208,
+            "name": "The Raiders [암벽 거인 탐사 현장,리프레]"
+          }
+        ]
+      },
+      "크리티아스": {
+        "engName": "kritias",
+        "bgmList": [
+          {
+            "id": 165,
+            "name": "Hekaton [왕궁 트뤼에페 - 헤카톤,크리티아스]"
+          },
+          {
+            "id": 166,
+            "name": "In Ruin In Vain [크리티아스 폐허,크리티아스]"
+          },
+          {
+            "id": 167,
+            "name": "Stop In Ends [군단장 침공전 - 크리티아스 거리,크리티아스]"
+          },
+          {
+            "id": 168,
+            "name": "Stop In Hudreds [크리티아스 거리,크리티아스]"
+          },
+          {
+            "id": 169,
+            "name": "Tragic Forest [크리티아스 필드,크리티아스]"
+          },
+          {
+            "id": 170,
+            "name": "Tragic Restart [군단장 침공전 - 크리티아스 필드,크리티아스]"
+          }
+        ]
+      }
+    },
+    "시간의 신전": {
+      "engName": "time-temple",
+      "bgmList": [
+        {
+          "id": 213,
+          "name": "Altar Of Akayrum [아카이럼의 제단 - 아카이럼,시간의 신전]"
+        },
+        {
+          "id": 214,
+          "name": "Crack Of Dimension [비틀린 시간의 신전,시간의 신전]"
+        },
+        {
+          "id": 220,
+          "name": "Time Temple [시간의 신전]"
+        }
+      ],
+      "과거의 문": {
+        "engName": "past-gate",
+        "bgmList": [
+          {
+            "id": 215,
+            "name": "Dusk of God [잊혀진 황혼,시간의 신전]"
+          },
+          {
+            "id": 216,
+            "name": "Fighting Pink Been [신들의 황혼 - 핑크빈,시간의 신전]"
+          },
+          {
+            "id": 217,
+            "name": "Forgetfulness [망각의 길,시간의 신전]"
+          },
+          {
+            "id": 218,
+            "name": "Remembrance [추억의 길,시간의 신전]"
+          },
+          {
+            "id": 219,
+            "name": "Repentance [후회의 길,시간의 신전]"
+          }
+        ]
+      },
+      "현재의 문": {
+        "engName": "present-gate",
+        "bgmList": [
+          {
+            "id": 221,
+            "name": "Against The Dark [모험가 스토리 - 검은 마법사의 방,현재의 문]"
+          }
+        ]
+      },
+      "미래의 문": {
+        "engName": "future-gate",
+        "bgmList": [
+          {
+            "id": 222,
+            "name": "Cygnus Garden [시그너스의 전당 - 시그너스,미래의 문]"
+          },
+          {
+            "id": 223,
+            "name": "Destruction Perion Shelter [황혼의 페리온,미래의 문]"
+          },
+          {
+            "id": 224,
+            "name": "Destruction Perion [(구)황혼의 페리온 필드,미래의 문]"
+          },
+          {
+            "id": 225,
+            "name": "Destruction Perion [황혼의 페리온 필드,미래의 문]"
+          },
+          {
+            "id": 226,
+            "name": "Destruction Town [파괴된 헤네시스,미래의 문]"
+          },
+          {
+            "id": 227,
+            "name": "Knights Stronghold [기사단의 요새,미래의 문]"
+          },
+          {
+            "id": 228,
+            "name": "Time Gate [미래의 문,시간의 신전]"
+          }
+        ]
+      }
+    }
+  },
+  "아케인 리버": {
+    "engName": "arcane-river",
+    "소멸의 여로": {
+      "engName": "vanishing-journey",
+      "bgmList": [
+        {
+          "id": 229,
+          "name": "Cave Of Rest [안식의 동굴,소멸의 여로]"
+        },
+        {
+          "id": 230,
+          "name": "Lake Of Oblivion [망각의 호수,소멸의 여로]"
+        },
+        {
+          "id": 232,
+          "name": "Volcanic Zone Of Extinction [소멸의 화염지대,소멸의 여로]"
+        }
+      ]
+    },
+    "리버스 시티": {
+      "engName": "reverse-city",
+      "bgmList": [
+        {
+          "id": 231,
+          "name": "Memory Of Sunset [석양,리버스 시티]"
+        },
+        {
+          "id": 233,
+          "name": "Reverse City [지하선로,리버스 시티]"
+        },
+        {
+          "id": 234,
+          "name": "Reverse City2 [지상열차,리버스 시티]"
+        },
+        {
+          "id": 235,
+          "name": "T-bomb [M타워 최상층,리버스 시티]"
+        }
+      ]
+    },
+    "츄츄 아일랜드": {
+      "engName": "chu-chu-island",
+      "bgmList": [
+        {
+          "id": 236,
+          "name": "ChewChew Main Theme [츄츄빌리지,츄츄 아일랜드]"
+        },
+        {
+          "id": 237,
+          "name": "ChewChew Wild World [하늘고래산,츄츄 아일랜드]"
+        }
+      ]
+    },
+    "얌얌 아일랜드": {
+      "engName": "yam-yam-island",
+      "bgmList": [
+        {
+          "id": 238,
+          "name": "Fungus Forest B [펑고스 숲 속 어딘가(퀘스트),얌얌 아일랜드]"
+        },
+        {
+          "id": 239,
+          "name": "Fungus Forest [펑고스 숲,얌얌 아일랜드]"
+        },
+        {
+          "id": 240,
+          "name": "Illiyard Moor [일리야드 들판,얌얌 아일랜드]"
+        },
+        {
+          "id": 241,
+          "name": "Mushbud Forest [얌얌 빌리지,얌얌 아일랜드]"
+        }
+      ]
+    },
+    "꿈의 도시 레헬른": {
+      "engName": "lechelein",
+      "bgmList": [
+        {
+          "id": 242,
+          "name": "Broken Dream [무너지는 시계탑 - 루시드,꿈의 도시 레헬른]"
+        },
+        {
+          "id": 243,
+          "name": "Clock Tower of Nightmare [악몽의 시계탑,꿈의 도시 레헬른]"
+        },
+        {
+          "id": 244,
+          "name": "Lache ln the Illusion City [꿈의 도시 레헬른]"
+        },
+        {
+          "id": 245,
+          "name": "Wierld Forest In the Girls dream [몽환의 숲 - 루시드,꿈의 도시 레헬른]"
+        }
+      ]
+    },
+    "신비의 숲 아르카나": {
+      "engName": "arcana",
+      "bgmList": [
+        {
+          "id": 246,
+          "name": "Arcana Boss [다섯 갈래 동굴,신비의 숲 아르카나]"
+        },
+        {
+          "id": 247,
+          "name": "The Tune Of Azure Light [신비의 숲 아르카나]"
+        },
+        {
+          "id": 248,
+          "name": "The Tune Of Azure Light2 [나무줄기 하프의 숲,신비의 숲 아르카나]"
+        }
+      ]
+    },
+    "기억의 늪 모라스": {
+      "engName": "morass",
+      "bgmList": [
+        {
+          "id": 249,
+          "name": "Black Dungeon [그림자가 춤추는 곳,기억의 늪 모라스]"
+        },
+        {
+          "id": 250,
+          "name": "Memory Of Kritias [트뤼에페 광장,기억의 늪 모라스]"
+        },
+        {
+          "id": 251,
+          "name": "Swamp Of Memory Moras [산호 숲으로 가는 길,기억의 늪 모라스]"
+        }
+      ]
+    },
+    "태초의 바다 에스페라": {
+      "engName": "esfera",
+      "bgmList": [
+        {
+          "id": 252,
+          "name": "A Place Where Life Begins [생명이 시작되는 곳,에스페라]"
+        },
+        {
+          "id": 253,
+          "name": "Blood Cage [(구)바스라지는 빛 - 윌,태초의 바다 에스페라]"
+        },
+        {
+          "id": 254,
+          "name": "Blood Cage [바스라지는 빛 - 윌,태초의 바다 에스페라]"
+        },
+        {
+          "id": 255,
+          "name": "Conteminated Sea [(구)거울빛에 물든 바다,태초의 바다 에스페라]"
+        },
+        {
+          "id": 256,
+          "name": "Conteminated Sea [거울빛에 물든 바다,태초의 바다 에스페라]"
+        },
+        {
+          "id": 257,
+          "name": "Diffraction [(구)회절의 회랑 - 윌,태초의 바다 에스페라]"
+        },
+        {
+          "id": 258,
+          "name": "Diffraction [회절의 회랑 - 윌,태초의 바다 에스페라]"
+        },
+        {
+          "id": 259,
+          "name": "Mirror Cage [(구)깊은 거울 - 윌,태초의 바다 에스페라]"
+        },
+        {
+          "id": 260,
+          "name": "Mirror Cage [깊은 거울 - 윌,태초의 바다 에스페라]"
+        },
+        {
+          "id": 261,
+          "name": "Soup Of Life [(구)생명이 시작되는 곳,태초의 바다 에스페라]"
+        },
+        {
+          "id": 262,
+          "name": "Temple In The Mirror [(구)거울에 비친 빛의 신전,태초의 바다 에스페라]"
+        },
+        {
+          "id": 263,
+          "name": "Temple In The Mirror [거울에 비친 빛의 신전,태초의 바다 에스페라]"
+        }
+      ]
+    },
+    "셀라스, 별이 잠긴 곳": {
+      "engName": "selass",
+      "bgmList": [
+        {
+          "id": 264,
+          "name": "Goodbye My Friends [셀라스]"
+        },
+        {
+          "id": 265,
+          "name": "Sinking Things [끝없이 추락하는 심해,셀라스]"
+        },
+        {
+          "id": 266,
+          "name": "Whale Belly [별이 삼켜진 심해,셀라스]"
+        },
+        {
+          "id": 267,
+          "name": "Where Stars Rest [(구)빛이 마지막으로 닿는 곳,셀라스]"
+        },
+        {
+          "id": 268,
+          "name": "Where Stars Rest [빛이 마지막으로 닿는 곳,셀라스]"
+        }
+      ]
+    },
+    "테네브리스": {
+      "engName": "tenebris",
+      "bgmList": [
+        {
+          "id": 269,
+          "name": "Out post [메이플 연합 전초기지,테네브리스]"
+        }
+      ]
+    },
+    "문브릿지": {
+      "engName": "moon-bridge",
+      "bgmList": [
+        {
+          "id": 270,
+          "name": "Dusk Hallucination [공허의 눈 - 거대 괴수 더스크 공포 상태,문브릿지]"
+        },
+        {
+          "id": 271,
+          "name": "Ferocious Battle Field [공허의 눈 - 거대 괴수 더스크,문브릿지]"
+        },
+        {
+          "id": 272,
+          "name": "Strange Fog [미지의 안개,문브릿지]"
+        },
+        {
+          "id": 273,
+          "name": "War Cloud [사상의 경계,문브릿지]"
+        },
+        {
+          "id": 274,
+          "name": "Wave of Emptiness [공허의 파도,문브릿지]"
+        }
+      ]
+    },
+    "고통의 미궁": {
+      "engName": "suffering-labyrinth",
+      "bgmList": [
+        {
+          "id": 275,
+          "name": "Depth Of Pain [욕망의 제단 - 진 힐라,고통의 미궁]"
+        },
+        {
+          "id": 276,
+          "name": "Eternal Swamp [고통의 미궁 중심부,고통의 미궁]"
+        },
+        {
+          "id": 277,
+          "name": "Heart of Suffering [고통의 미궁 최심부,고통의 미궁]"
+        },
+        {
+          "id": 278,
+          "name": "Secret Labyrinth [고통의 미궁 내부,고통의 미궁]"
+        }
+      ]
+    },
+    "리멘": {
+      "engName": "limen",
+      "bgmList": [
+        {
+          "id": 279,
+          "name": "Black Fury [오르카,리멘]"
+        },
+        {
+          "id": 280,
+          "name": "Lost Space [존재하지 않는 공간 - 검은 마법사,리멘]"
+        },
+        {
+          "id": 281,
+          "name": "New Beginning Not The End [엔딩,리멘]"
+        },
+        {
+          "id": 282,
+          "name": "Subterminal Point [끝에 가까운 곳 - 친위대장 듄켈,리멘]"
+        },
+        {
+          "id": 283,
+          "name": "Tears Of The World [세계의 눈물,리멘]"
+        },
+        {
+          "id": 284,
+          "name": "Temple Of Darkness [어둠의 신전 - 창조의 아이온, 파괴의 얄다바오트,리멘]"
+        },
+        {
+          "id": 285,
+          "name": "The World's End [세계가 끝나는 곳,리멘]"
+        },
+        {
+          "id": 286,
+          "name": "Throne Of Darkness [어둠의 왕좌 - 검은 마법사,리멘]"
+        },
+        {
+          "id": 287,
+          "name": "World Horizon [시작과 끝의 경계 - 검은 마법사,리멘]"
+        }
+      ]
+    }
+  },
+  "그란디스": {
+    "engName": "grandis",
+    "판테온": {
+      "engName": "pantheon",
+      "bgmList": [
+        {
+          "id": 288,
+          "name": "5th SpotLight FlyAway [엔젤릭버스터 스킬 - 스포트라이트]"
+        },
+        {
+          "id": 289,
+          "name": "Angels Room [엔젤릭버스터의 방,판테온]"
+        },
+        {
+          "id": 290,
+          "name": "Base Of Betrayers [변절자의 기지,판테온]"
+        },
+        {
+          "id": 291,
+          "name": "Border Area [경계 전장,판테온]"
+        },
+        {
+          "id": 292,
+          "name": "Great Temple [판테온 대신전,판테온]"
+        },
+        {
+          "id": 293,
+          "name": "Nova Sanctum [판테온 성소,판테온]"
+        },
+        {
+          "id": 294,
+          "name": "Pantheon Field [판테온 필드,판테온]"
+        },
+        {
+          "id": 295,
+          "name": "Pantheon [판테온]"
+        },
+        {
+          "id": 296,
+          "name": "Step Of Kaiser [카이저 튜토리얼 - 헬리시움 외곽,판테온]"
+        },
+        {
+          "id": 297,
+          "name": "Trapped Kaiser [카이저 튜토리얼 - 매그너스 기습,판테온]"
+        }
+      ]
+    },
+    "헬리시움": {
+      "engName": "heliseum",
+      "bgmList": [
+        {
+          "id": 298,
+          "name": "Citadel of Tyrant [폭군의 성채,헬리시움]"
+        },
+        {
+          "id": 299,
+          "name": "Funky Black Market [도심지 암시장,헬리시움]"
+        },
+        {
+          "id": 300,
+          "name": "Helisium Field [헬리시움 도심 필드,헬리시움]"
+        },
+        {
+          "id": 301,
+          "name": "Helisium Mystic Forest [헬리시움 필드,헬리시움]"
+        },
+        {
+          "id": 302,
+          "name": "Helisium Warcry [헬리시움 탈환 전장,헬리시움]"
+        },
+        {
+          "id": 303,
+          "name": "Retake [헬리시움 탈환 본부,헬리시움]"
+        },
+        {
+          "id": 304,
+          "name": "The Final War [폭군의 왕좌 - 매그너스,헬리시움]"
+        },
+        {
+          "id": 305,
+          "name": "Trinity Force [트레글로의 실험실,빅터의 공방,벨데로스의 집무실,헬리시움]"
+        }
+      ]
+    },
+    "미우미우": {
+      "engName": "vulpes",
+      "bgmList": [
+        {
+          "id": 306,
+          "name": "Decision [은월 튜토리얼 - 희생,미우미우]"
+        },
+        {
+          "id": 307,
+          "name": "Fox Village [뾰족귀 여우마을,미우미우]"
+        },
+        {
+          "id": 308,
+          "name": "Over The Clouds Rhythmic Ver [수호령의 산책로(퀘스트),미우미우]"
+        },
+        {
+          "id": 309,
+          "name": "Over The Clouds [구름 너머,미우미우]"
+        },
+        {
+          "id": 310,
+          "name": "Sad Fox Village [비 내리는 뾰족귀 여우마을,미우미우]"
+        }
+      ]
+    },
+    "베르딜": {
+      "engName": "verdel",
+      "bgmList": [
+        {
+          "id": 311,
+          "name": "Dooms day [아크 튜토리얼,베르딜]"
+        },
+        {
+          "id": 312,
+          "name": "Memory [아크 기억 회상,베르딜]"
+        },
+        {
+          "id": 313,
+          "name": "Verdel Dungeon [사막동굴,베르딜]"
+        },
+        {
+          "id": 314,
+          "name": "Verdel Field [모래폭풍지대,베르딜]"
+        },
+        {
+          "id": 315,
+          "name": "Verdel Town [카라반 피난처,베르딜]"
+        }
+      ]
+    },
+    "새비지 터미널": {
+      "engName": "savage-terminal",
+      "bgmList": [
+        {
+          "id": 316,
+          "name": "Hunting Ground [새비지 터미널 필드,새비지 터미널]"
+        },
+        {
+          "id": 317,
+          "name": "Los Gurugers [구루거 서식지,새비지 터미널]"
+        },
+        {
+          "id": 318,
+          "name": "Savage Terminal [새비지 터미널]"
+        }
+      ]
+    },
+    "청운": {
+      "engName": "cheongwoon-valley",
+      "bgmList": [
+        {
+          "id": 319,
+          "name": "Cheong Un [청운골,청운]"
+        },
+        {
+          "id": 320,
+          "name": "Creepy Temple [미남 법사의 사원,청운]"
+        },
+        {
+          "id": 321,
+          "name": "Riding On The Clouds [근두운,청운]"
+        },
+        {
+          "id": 322,
+          "name": "SeonYuSan [호영 튜토리얼 - 선유산 기슭,청운]"
+        }
+      ]
+    },
+    "리스토니아": {
+      "engName": "listonia",
+      "bgmList": [
+        {
+          "id": 323,
+          "name": "Adeles Oath [아델 각성,리스토니아]"
+        },
+        {
+          "id": 324,
+          "name": "For Einherjar [아델 튜토리얼 - 기억 회상,리스토니아]"
+        },
+        {
+          "id": 325,
+          "name": "Masked Heart [저택,리스토니아]"
+        },
+        {
+          "id": 326,
+          "name": "Romantic Sunset [리스토니아]"
+        },
+        {
+          "id": 327,
+          "name": "Street piano [거리의 악사 에밀 - 피아노 연주,리스토니아]"
+        },
+        {
+          "id": 328,
+          "name": "The Walls of Tragedy [비극의 성벽,리스토니아]"
+        },
+        {
+          "id": 329,
+          "name": "Where The Secret Lies [지하 통로,리스토니아]"
+        }
+      ]
+    },
+    "신의 도시 세르니움": {
+      "engName": "cernium",
+      "bgmList": [
+        {
+          "id": 330,
+          "name": "Apostles [사도,신의 도시 세르니움]"
+        },
+        {
+          "id": 331,
+          "name": "Battle Of Cernium [불타는 세르니움,신의 도시 세르니움]"
+        },
+        {
+          "id": 332,
+          "name": "Borderless [세계의 경계,신의 도시 세르니움]"
+        },
+        {
+          "id": 333,
+          "name": "Burning City [불타는 도시,신의 도시 세르니움]"
+        },
+        {
+          "id": 334,
+          "name": "EdelsteinCity Mastered [The Day After - 해방된 에델슈타인,신의 도시 세르니움]"
+        },
+        {
+          "id": 335,
+          "name": "Glory Base [신 전초기지,신의 도시 세르니움]"
+        },
+        {
+          "id": 336,
+          "name": "Grave yard Of Sword [검의 무덤,신의 도시 세르니움]"
+        },
+        {
+          "id": 337,
+          "name": "Holy War [습격당한 세르니움,신의 도시 세르니움]"
+        },
+        {
+          "id": 338,
+          "name": "Journey Music Box Mastered [The Day After - 메르세데스 오르골,신의 도시 세르니움]"
+        },
+        {
+          "id": 339,
+          "name": "Overlord Of Life [제른 다르모어,신의 도시 세르니움]"
+        },
+        {
+          "id": 340,
+          "name": "Red Moon [레프군 주둔지,신의 도시 세르니움]"
+        },
+        {
+          "id": 341,
+          "name": "Rising Sun [각성 세렌,신의 도시 세르니움]"
+        },
+        {
+          "id": 342,
+          "name": "Sanctuary Of Mitra [성검이 보관된 곳,신의 도시 세르니움]"
+        },
+        {
+          "id": 343,
+          "name": "Sea Wave [해변 암석지대,신의 도시 세르니움]"
+        },
+        {
+          "id": 344,
+          "name": "The Holy Land [세르니움,신의 도시 세르니움]"
+        }
+      ]
+    },
+    "툴렌시티": {
+      "engName": "",
+      "bgmList": [
+        {
+          "id": 345,
+          "name": "Dispossessed Anger [카인 튜토리얼 - 습격,보스의 방,툴렌시티]"
+        },
+        {
+          "id": 346,
+          "name": "Doubt You [카인 튜토리얼 - 의심,툴렌시티]"
+        },
+        {
+          "id": 347,
+          "name": "Happy Birthday My Dear Short [카인 2차 전직,툴렌시티]"
+        },
+        {
+          "id": 348,
+          "name": "Happy Birthday My Dear [카인 튜토리얼 - 기억,툴렌시티]"
+        },
+        {
+          "id": 349,
+          "name": "Heavy Rain [카인 튜토리얼 - 비,툴렌시티]"
+        },
+        {
+          "id": 350,
+          "name": "Malice [툴렌시티 - 카인 튜토리얼 이후,카인 3차,4차 전직,툴렌시티]"
+        },
+        {
+          "id": 351,
+          "name": "The Dispossessed [툴렌시티 내부,툴렌시티]"
+        },
+        {
+          "id": 352,
+          "name": "Toolen City [툴렌시티]"
+        }
+      ]
+    },
+    "호텔 아르크스": {
+      "engName": "hotel-arcus",
+      "bgmList": [
+        {
+          "id": 353,
+          "name": "A mecanic with a wander [러스티와 아켈론,호텔 아르크스]"
+        },
+        {
+          "id": 354,
+          "name": "Lonesome Cinema [낭만이 저무는 자동차 극장,호텔 아르크스]"
+        },
+        {
+          "id": 355,
+          "name": "Train heading nowhere [종착지 없는 횡단열차,호텔 아르크스]"
+        },
+        {
+          "id": 356,
+          "name": "Wayout of the wilderness [몰락한 황야의 도시,호텔 아르크스]"
+        },
+        {
+          "id": 357,
+          "name": "Welcome to Arcs Hotel [호텔 아르크스 로비,호텔 아르크스]"
+        }
+      ]
+    }
+  },
+  "컨텐츠": {
+    "engName": "contents",
+    "마스테리아": {
+      "engName": "mastria",
+      "bgmList": [
+        {
+          "id": 209,
+          "name": "Courtyard [(삭제됨)파퀘 마스테리아의 제단 - 집무실,마스테리아]"
+        },
+        {
+          "id": 210,
+          "name": "Crimson wood Keep Interior [마스테리아의 제단,마스테리아]"
+        },
+        {
+          "id": 211,
+          "name": "Faded Citadel [파퀘 마스테리아의 제단 - 마스터의 방,마스테리아]"
+        },
+        {
+          "id": 212,
+          "name": "Party Quest GL [(삭제됨)파퀘 마스테리아의 제단,마스테리아]"
+        }
+      ]
+    },
+    "거울세계": {
+      "engName": "mirror-world",
+      "bgmList": [
+        {
+          "id": 358,
+          "name": "Ariant In Mirror [거울세계 아리안트,거울세계]"
+        },
+        {
+          "id": 359,
+          "name": "Be Born Zero [제로의 신전,거울세계]"
+        },
+        {
+          "id": 360,
+          "name": "Dispute In Mirror [거울세계 마가티아,거울세계]"
+        },
+        {
+          "id": 361,
+          "name": "Edenstein City In Mirror [거울세계 에델슈타인,거울세계]"
+        },
+        {
+          "id": 362,
+          "name": "Fantastic Thinking In Mirror [거울세계 루디브리엄,거울세계]"
+        },
+        {
+          "id": 363,
+          "name": "Floral Life In Mirror [거울세계 헤네시스,거울세계]"
+        },
+        {
+          "id": 364,
+          "name": "Leafre In Mirror [거울세계 리프레,거울세계]"
+        },
+        {
+          "id": 365,
+          "name": "Mureung Hill In Mirror [거울세계 무릉,거울세계]"
+        },
+        {
+          "id": 366,
+          "name": "Nasty Liar [그림자 마을 대회의장,거울세계]"
+        },
+        {
+          "id": 367,
+          "name": "Red Room [(구)거울세계 컨트롤룸,거울세계]"
+        },
+        {
+          "id": 368,
+          "name": "Red Room [거울세계 컨트롤룸,거울세계]"
+        },
+        {
+          "id": 369,
+          "name": "Shadow Knight [그림자 마을,거울세계]"
+        },
+        {
+          "id": 370,
+          "name": "Shadow Temple [그림자 신전,거울세계]"
+        },
+        {
+          "id": 371,
+          "name": "Smile Zero [제로 스토리 - 개그씬,거울세계]"
+        },
+        {
+          "id": 372,
+          "name": "Time Temple In Mirror [거울세계 시간의 신전,거울세계]"
+        }
+      ]
+    },
+    "결혼식": {
+      "engName": "wedding",
+      "bgmList": [
+        {
+          "id": 373,
+          "name": "Amoria [웨딩홀 로비,기타 컨텐츠]"
+        },
+        {
+          "id": 374,
+          "name": "Cathedral [결혼식1,기타 컨텐츠]"
+        },
+        {
+          "id": 375,
+          "name": "Chapel [결혼식2,기타 컨텐츠]"
+        }
+      ]
+    },
+    "기타": {
+      "engName": "etc-conti",
+      "bgmList": [
+        {
+          "id": 376,
+          "name": "Black Wing [블랙윙,기타 컨텐츠]"
+        },
+        {
+          "id": 377,
+          "name": "Congratulation [생일축하 오르골,기타 컨텐츠]"
+        },
+        {
+          "id": 378,
+          "name": "Happy Time Short [엘리트 보스 보상,기타 컨텐츠]"
+        },
+        {
+          "id": 379,
+          "name": "MP Bonus Map [숨겨진 보물창고,기타 컨텐츠]"
+        },
+        {
+          "id": 380,
+          "name": "Max Level Chair [최고레벨 달성 의자 - 명예의 상징,기타 컨텐츠]"
+        },
+        {
+          "id": 381,
+          "name": "Royal Guard [엘리트 보스 테마,기타 컨텐츠]"
+        },
+        {
+          "id": 382,
+          "name": "러블리 파티 베어 [캐쉬 아이템 뿌리기,기타 컨텐츠]"
+        }
+      ]
+    },
+    "길드 컨텐츠": {
+      "engName": "guild",
+      "bgmList": [
+        {
+          "id": 383,
+          "name": "Capture The Flag [플래그 레이스,기타 컨텐츠]"
+        },
+        {
+          "id": 384,
+          "name": "Eregos [샤레니안의 지하 수로 - 수로의 가장 깊은 방 - 아르카누스,기타 컨텐츠]"
+        },
+        {
+          "id": 385,
+          "name": "Water Way [샤레니안의 지하 수로,기타 컨텐츠]"
+        }
+      ]
+    },
+    "몬스터 라이프": {
+      "engName": "monster-life",
+      "bgmList": [
+        {
+          "id": 386,
+          "name": "Its Monsters Life [농장,몬스터 라이프]"
+        },
+        {
+          "id": 387,
+          "name": "Its Monsters Life2 [농장2,몬스터 라이프]"
+        },
+        {
+          "id": 388,
+          "name": "Journey [몬스터 방출,몬스터 라이프]"
+        },
+        {
+          "id": 389,
+          "name": "Scholars Library [율리앙의 집,몬스터 라이프]"
+        },
+        {
+          "id": 390,
+          "name": "Specialty Store Remix [진귀한 상점,몬스터 라이프]"
+        },
+        {
+          "id": 391,
+          "name": "Specialty Store [상점,몬스터 라이프]"
+        }
+      ]
+    },
+    "몬스터파크": {
+      "engName": "monster-park",
+      "bgmList": [
+        {
+          "id": 392,
+          "name": "Monster Park [몬스터 파크,기타 컨텐츠]"
+        }
+      ]
+    },
+    "블록버스터, 블랙헤븐": {
+      "engName": "black-heaven",
+      "bgmList": [
+        {
+          "id": 393,
+          "name": "Promise Of Heaven -instrumenal- [엔딩 크레딧 MR,블랙헤븐]"
+        },
+        {
+          "id": 394,
+          "name": "Promise Of Heaven [엔딩 크레딧,블랙헤븐]"
+        }
+      ]
+    },
+    "블록버스터, 히어로즈 오브 메이플": {
+      "engName": "heros-of-maple",
+      "bgmList": [
+        {
+          "id": 395,
+          "name": "Heroes Of Maple Theme Piano [연합 의회장,히어로즈 오브 메이플]"
+        },
+        {
+          "id": 396,
+          "name": "Travelers [엔딩 크레딧,히어로즈 오브 메이플]"
+        }
+      ]
+    },
+    "세계여행": {
+      "engName": "world-travel",
+      "bgmList": [
+        {
+          "id": 397,
+          "name": "Bizarre Forest [월하죽림,세계여행]"
+        },
+        {
+          "id": 398,
+          "name": "Dragon Tiger Dungeon [마스터의 복수,세계여행]"
+        },
+        {
+          "id": 399,
+          "name": "Dragon Tiger Field [황룡파, 적호파 도장,세계여행]"
+        },
+        {
+          "id": 400,
+          "name": "Feeling [일본 버섯신사,세계여행]"
+        },
+        {
+          "id": 401,
+          "name": "Go Shanghai [(구)중국 상해와이탄,세계여행]"
+        },
+        {
+          "id": 402,
+          "name": "Go Shanghai [중국 상해와이탄,세계여행]"
+        },
+        {
+          "id": 403,
+          "name": "Hieijan [KR] [히에이잔,세계여행]"
+        },
+        {
+          "id": 404,
+          "name": "Hieijan nohime [KR] [작은 사당 노히메,세계여행]"
+        },
+        {
+          "id": 405,
+          "name": "Inside Honnouji [혼노지,세계여행]"
+        },
+        {
+          "id": 406,
+          "name": "Kecon [당주의 방,세계여행]"
+        },
+        {
+          "id": 407,
+          "name": "Momiji gaoka [모미지 언덕,세계여행]"
+        },
+        {
+          "id": 408,
+          "name": "MomijiNo Sakamichi [모미지 언덕 필드,세계여행]"
+        },
+        {
+          "id": 409,
+          "name": "Night Field [야시장 거리,세계여행]"
+        },
+        {
+          "id": 410,
+          "name": "Night Market [야시장,세계여행]"
+        },
+        {
+          "id": 411,
+          "name": "Shanghai Field [상해와이탄 필드,세계여행]"
+        },
+        {
+          "id": 412,
+          "name": "Thai Field [플로팅 마켓 필드,세계여행]"
+        },
+        {
+          "id": 413,
+          "name": "Thai Town [태국 플로팅 마켓,세계여행]"
+        },
+        {
+          "id": 414,
+          "name": "Yo Taipei [대만 서문정,세계여행]"
+        }
+      ]
+    },
+    "스타 플래닛": {
+      "engName": "star-planet",
+      "bgmList": [
+        {
+          "id": 415,
+          "name": "Invitavion Star Planet [스타 플래닛 인트로,스타 플래닛]"
+        },
+        {
+          "id": 416,
+          "name": "Master Of KeyBoard [타이핑 디펜스,스타 플래닛]"
+        },
+        {
+          "id": 417,
+          "name": "Star Planet Game Field [스타 아레나,스타 플래닛]"
+        },
+        {
+          "id": 418,
+          "name": "Star Planet Main Event [스타 플래닛]"
+        },
+        {
+          "id": 419,
+          "name": "Star Planet Wait Field [스타 플래닛 로비,스타 플래닛]"
+        },
+        {
+          "id": 420,
+          "name": "Star Planet World Event [월드 이벤트,스타 플래닛]"
+        },
+        {
+          "id": 421,
+          "name": "Todays Fortune [오늘의 운세,스타 플래닛]"
+        },
+        {
+          "id": 422,
+          "name": "Virtual Arena [싸워라! 전설의 귀환,스타 플래닛]"
+        },
+        {
+          "id": 423,
+          "name": "YUTYUTYUT [스타 윷놀이,스타 플래닛]"
+        }
+      ]
+    },
+    "우르스": {
+      "engName": "urus",
+      "bgmList": [
+        {
+          "id": 424,
+          "name": "Desperately [우르스 3페이즈,불꽃늑대]"
+        },
+        {
+          "id": 425,
+          "name": "She Sells A Lucky Thing [우르스 입장,퇴장 지역]"
+        },
+        {
+          "id": 426,
+          "name": "The King Of Destruction [(구)우르스 테마]"
+        },
+        {
+          "id": 427,
+          "name": "The King Of Destruction [우르스 테마]"
+        },
+        {
+          "id": 428,
+          "name": "The Silent War [우르스 1페이즈]"
+        },
+        {
+          "id": 429,
+          "name": "Wild Fury [(구)우르스 2페이즈]"
+        },
+        {
+          "id": 430,
+          "name": "Wild Fury [우르스 2페이즈]"
+        }
+      ]
+    },
+    "전문기술": {
+      "engName": "meister-village",
+      "bgmList": [
+        {
+          "id": 431,
+          "name": "Profession [전문기술마을 마이스터 빌,기타 컨텐츠]"
+        }
+      ]
+    },
+    "차원의 도서관": {
+      "engName": "grand-athenaeum",
+      "bgmList": [
+        {
+          "id": 432,
+          "name": "Dimension Library [차원의 도서관]"
+        }
+      ]
+    },
+    "키네시스": {
+      "engName": "kinesis",
+      "bgmList": [
+        {
+          "id": 433,
+          "name": "Kinesis Theme I [키네시스 테마,키네시스]"
+        },
+        {
+          "id": 434,
+          "name": "Kinesis Theme II [지하철 막다른 곳,키네시스]"
+        },
+        {
+          "id": 435,
+          "name": "Skyscraper [아지트 본부,키네시스]"
+        },
+        {
+          "id": 436,
+          "name": "Unknown Part Of City [밤의 서울,키네시스]"
+        }
+      ]
+    },
+    "프렌즈스토리": {
+      "engName": "fried-story",
+      "bgmList": [
+        {
+          "id": 437,
+          "name": "Battle Field [더스트 존 - 트러블메이커,프렌즈스토리]"
+        },
+        {
+          "id": 438,
+          "name": "Catch Your Dreams! [Instrumental]"
+        },
+        {
+          "id": 439,
+          "name": "Catch Your Dreams!"
+        },
+        {
+          "id": 440,
+          "name": "Demon's eye [데미안 등장,프렌즈스토리]"
+        },
+        {
+          "id": 441,
+          "name": "Demon's eye2 [데미안 공연,프렌즈스토리]"
+        },
+        {
+          "id": 442,
+          "name": "Hollow Attack [신수국제학교 구관,프렌즈스토리]"
+        },
+        {
+          "id": 443,
+          "name": "Life Is Comedy [프렌즈스토리 개그씬,프렌즈스토리]"
+        },
+        {
+          "id": 444,
+          "name": "School Life [신수국제학교,프렌즈스토리]"
+        },
+        {
+          "id": 445,
+          "name": "The Beast [기타 연주 배틀,프렌즈스토리]"
+        },
+        {
+          "id": 446,
+          "name": "The Beast2 [데미안과 아이들,프렌즈스토리]"
+        },
+        {
+          "id": 447,
+          "name": "Urban Street [신수국제학교대로,프렌즈스토리]"
+        }
+      ]
+    }
+  },
+  "이벤트": {
+    "engName": "event",
+    "N주년 이벤트": {
+      "engName": "nth-celebrity-event",
+      "bgmList": [],
+      "8주년": {
+        "engName": "celebrity-8th",
+        "bgmList": [
+          {
+            "id": 448,
+            "name": "Rising Star [8주년 - 메인화면,이벤트]"
+          },
+          {
+            "id": 449,
+            "name": "Smile [메이플 8주년 테마송,이벤트]"
+          }
+        ]
+      },
+      "10주년": {
+        "engName": "celebrity-10th",
+        "bgmList": [
+          {
+            "id": 450,
+            "name": "Tenth Board [10주년 - 서바이벌! 메이플 마블!,이벤트]"
+          }
+        ]
+      },
+      "11주년": {
+        "engName": "celebrity-11th",
+        "bgmList": [
+          {
+            "id": 451,
+            "name": "Happy Time Long [11주년 태초에 버섯이 있었다 - 11주년 축제장,이벤트]"
+          }
+        ]
+      },
+      "12주년": {
+        "engName": "celebrity-12th",
+        "bgmList": [
+          {
+            "id": 452,
+            "name": "Monster World [12주년 - 몬스터 보물마을,이벤트]"
+          },
+          {
+            "id": 453,
+            "name": "Tresure Game Multi [12주년 - 몬스터 보물창고 2015,이벤트]"
+          },
+          {
+            "id": 454,
+            "name": "Tresure Game Single [12주년 - 랜덤포탈 싹쓸이 창고,메소프레스 창고,이벤트]"
+          }
+        ]
+      },
+      "14주년": {
+        "engName": "celebrity-14th",
+        "bgmList": [
+          {
+            "id": 455,
+            "name": "Galaxy is Dangerous [14주년 우주 Like 메이플 - 미니게임,이벤트]"
+          },
+          {
+            "id": 456,
+            "name": "Maple Galaxy [14주년 우주 Like 메이플 - 행성 비타,이벤트]"
+          },
+          {
+            "id": 457,
+            "name": "Maple Galaxy2 [14주년 우주 Like 메이플 - 행성 아이스콜드 프로즌 링크,이벤트] "
+          }
+        ]
+      },
+      "15주년": {
+        "engName": "celebrity-15th",
+        "bgmList": [
+          {
+            "id": 458,
+            "name": "Mashup [15주년 15번가 - 클럽 V,이벤트]"
+          },
+          {
+            "id": 459,
+            "name": "Welcome To The 15th Street [15주년 15번가,이벤트]"
+          }
+        ]
+      },
+      "16주년": {
+        "engName": "celebrity-16th",
+        "bgmList": [
+          {
+            "id": 460,
+            "name": "Newtro ChuChu [16주년 뉴트로 타임 - 미니게임 2,이벤트]"
+          },
+          {
+            "id": 461,
+            "name": "Newtro Disco [16주년 뉴트로 타임 - 뉴트로 롤러장,이벤트]"
+          },
+          {
+            "id": 462,
+            "name": "Newtro Florina Beach [16주년 뉴트로 타임 - 뉴트로 코코넛 시즌,이벤트]"
+          },
+          {
+            "id": 463,
+            "name": "Newtro Henesys [16주년 뉴트로 타임 - 뉴트로 헤네시스 의자,이벤트]"
+          },
+          {
+            "id": 464,
+            "name": "Newtro Kingdom [16주년 뉴트로 타임 - 뉴트로 왕국,이벤트]"
+          },
+          {
+            "id": 465,
+            "name": "Newtro Login [16주년 뉴트로 타임 - 뉴트로 사우나,이벤트]"
+          },
+          {
+            "id": 466,
+            "name": "Newtro Ludibrium [16주년 뉴트로 타임 - 미니게임 1,이벤트]"
+          },
+          {
+            "id": 467,
+            "name": "Newtro Orbis [16주년 뉴트로 타임 - 마왕 픽록의 은신처,이벤트]"
+          }
+        ]
+      },
+      "17주년": {
+        "engName": "celebrity-17th",
+        "bgmList": [
+          {
+            "id": 468,
+            "name": "17th Event [17주년 호텔 메이플 - 호텔 메이플,이벤트]"
+          }
+        ]
+      }
+    },
+    "기타 이벤트": {
+      "engName": "etc-event",
+      "bgmList": [
+        {
+          "id": 469,
+          "name": "Coke Town [코-크타운,이벤트]"
+        },
+        {
+          "id": 470,
+          "name": "Coordi King [코디왕 콘테스트,이벤트]"
+        },
+        {
+          "id": 471,
+          "name": "Dolphin Night [투어리스트 - 밤의 돌고래섬,이벤트]"
+        },
+        {
+          "id": 472,
+          "name": "Dolphin Noon [투어리스트 - 낮의 돌고래섬,이벤트]"
+        },
+        {
+          "id": 473,
+          "name": "Funny Rabbit Faster [운영자 이벤트2,이벤트]"
+        },
+        {
+          "id": 474,
+          "name": "Funny Rabbit [운영자 이벤트1,이벤트]"
+        },
+        {
+          "id": 475,
+          "name": "Kite Bgm [설날 이벤트 - 창공의 추격전,이벤트]"
+        },
+        {
+          "id": 476,
+          "name": "Maple High School [메이플 스쿨,이벤트]"
+        },
+        {
+          "id": 477,
+          "name": "Mini Game Station [미니게임 스테이션,이벤트]"
+        },
+        {
+          "id": 478,
+          "name": "Rhythm Bgm1 [출동! 메소레인저 1,이벤트]"
+        },
+        {
+          "id": 479,
+          "name": "Rhythm Bgm2 [출동! 메소레인저 2,이벤트]"
+        },
+        {
+          "id": 480,
+          "name": "Santa Beats [출동! 메소레인저 3,이벤트]"
+        },
+        {
+          "id": 481,
+          "name": "Santa Rocks [출동! 메소레인저 4,이벤트]"
+        },
+        {
+          "id": 482,
+          "name": "The Rush [서바이벌 미니게임,이벤트]"
+        },
+        {
+          "id": 483,
+          "name": "White Christmas [행복한 마을,이벤트]"
+        },
+        {
+          "id": 484,
+          "name": "Wich Tower [마녀의 탑,이벤트]"
+        },
+        {
+          "id": 485,
+          "name": "Wolf And Sheep [양떼목장,이벤트]"
+        },
+        {
+          "id": 486,
+          "name": "헤네시스 벚꽃놀이 [투어리스트 - 헤네시스 벚꽃놀이,이벤트]"
+        }
+      ]
+    },
+    "코인샵 이벤트": {
+      "engName": "coin-event",
+      "bgmList": [],
+      "AWAKE": {
+        "engName": "awake",
+        "bgmList": [
+          {
+            "id": 487,
+            "name": "Awake Event [AWAKE - 각성의 산,이벤트]"
+          },
+          {
+            "id": 488,
+            "name": "Union Arena [AWAKE - 유니온 아레나 대기실,이벤트]"
+          },
+          {
+            "id": 489,
+            "name": "Union Arena2 [AWAKE - 유니온 아레나,이벤트]"
+          }
+        ]
+      },
+      "NEO": {
+        "engName": "neo",
+        "bgmList": [
+          {
+            "id": 490,
+            "name": "Neo Castle [NEO - 네오 캐슬,이벤트]"
+          }
+        ]
+      },
+      "NOVA": {
+        "engName": "nova",
+        "bgmList": [
+          {
+            "id": 491,
+            "name": "Water Gun Game [NOVA - 해변의 무법자,이벤트]"
+          }
+        ]
+      },
+      "RISE": {
+        "engName": "rise",
+        "bgmList": [
+          {
+            "id": 492,
+            "name": "Salon Rise [RISE - 살롱 RISE,이벤트]"
+          }
+        ]
+      },
+      "V": {
+        "engName": "v",
+        "bgmList": [
+          {
+            "id": 493,
+            "name": "V Event [V - V코인샵,이벤트]"
+          }
+        ]
+      },
+      "보름달 도깨비 야시장": {
+        "engName": "goblin-night-market",
+        "bgmList": [
+          {
+            "id": 494,
+            "name": "Goblin Market [보름달 도깨비 야시장,이벤트]"
+          }
+        ]
+      },
+      "어드벤쳐": {
+        "engName": "adventure",
+        "bgmList": [
+          {
+            "id": 495,
+            "name": "Adventure Island [어드벤처 - 어드벤처 아일랜드,이벤트]"
+          },
+          {
+            "id": 496,
+            "name": "Battle Horizon Theme [어드벤처 - 배틀 호라이즌,이벤트]"
+          },
+          {
+            "id": 497,
+            "name": "Maple Squad S1 [어드벤처 - 메이플 스쿼드 - 불사의 고르곤,이벤트]"
+          }
+        ]
+      },
+      "풀문 파티": {
+        "engName": "full-moon-party",
+        "bgmList": [
+          {
+            "id": 498,
+            "name": "Full Moon Party [엘리넬 풀 문 파티장,이벤트]"
+          }
+        ]
+      }
+    },
+    "할로윈": {
+      "engName": "halloween",
+      "bgmList": [
+        {
+          "id": 499,
+          "name": "Club Halloween [2018 할로윈 - 클럽 할로윈,이벤트]"
+        },
+        {
+          "id": 500,
+          "name": "Halloween Main Hall [2012 할로윈 - 메이플 캐슬 메인홀,이벤트]"
+        },
+        {
+          "id": 501,
+          "name": "Halloween Party [2012 할로윈 - 메이플 캐슬 파티홀,이벤트]"
+        },
+        {
+          "id": 502,
+          "name": "Halloween Racing [2012 할로윈 - 액션 히어로,이벤트]"
+        },
+        {
+          "id": 503,
+          "name": "Haunted House [할로윈 - 헌티드 맨션,이벤트]"
+        }
+      ]
+    }
+  },
+  "기타": {
+    "engName": "etc",
+    "삭제 및 미사용": {
+      "engName": "delete-unuse",
+      "갓 오브 컨트롤": {
+        "engName": "god-of-controll",
+        "bgmList": [
+          {
+            "id": 504,
+            "name": "God Of Control - Lobby [갓 오브 컨트롤 - 로비,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 505,
+            "name": "God Of Control - Stage [갓 오브 컨트롤 - 근성의 숲,삭제 및 미사용 음원]"
+          }
+        ]
+      },
+      "기타 삭제 및 미사용": {
+        "engName": "etc-delete-unuse",
+        "bgmList": [
+          {
+            "id": 506,
+            "name": "Castle Boss [영주의 방,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 507,
+            "name": "Castle Inside [천수각,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 508,
+            "name": "Castle Outside [벚꽃성 외곽,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 509,
+            "name": "Cygnus [시그너스 기사단 소개,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 510,
+            "name": "Ghost Ship [파퀘 안개바다의 유령선 - 난파된 유령선,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 511,
+            "name": "Play With Me [커닝시티 PC방,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 512,
+            "name": "Road To You [미사용 곡,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 513,
+            "name": "Rock'n Battle [배틀 몬스터,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 514,
+            "name": "Under Subway [몬스터 서바이벌 - 미개통 구간,삭제 및 미사용 음원]"
+          }
+        ]
+      },
+      "대난투": {
+        "engName": "super-fight",
+        "bgmList": [
+          {
+            "id": 515,
+            "name": "Battle BGM Type A [대난투 - 사자왕의 성 탑루,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 516,
+            "name": "Battle BGM Type B [대난투 - 이글루 벌판,이끼나무 숲,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 517,
+            "name": "Battle BGM Type C [대난투 - 엘리쟈의 정원,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 518,
+            "name": "Battle BGM Type D [대난투 - 핑크빈의 음악감상,삭제 및 미사용 음원]"
+          },
+          {
+            "id": 519,
+            "name": "Battle Entrance [대난투 - 배틀 스퀘어,삭제 및 미사용 음원]"
+          }
+        ]
+      }
+    },
+    "시스템": {
+      "engName": "system",
+      "bgmList": [
+        {
+          "id": 520,
+          "name": "Mapleland [로그인]"
+        },
+        {
+          "id": 521,
+          "name": "Mapleland2 [로그인]"
+        },
+        {
+          "id": 522,
+          "name": "Shop Bgm [캐시샵]"
+        }
+      ]
+    },
+    "재즈 오브 메이플": {
+      "engName": "jass-of-maple",
+      "bgmList": [
+        {
+          "id": 523,
+          "name": "Ariant [Jazz of Maple]"
+        },
+        {
+          "id": 524,
+          "name": "Login [Jazz of Maple]"
+        },
+        {
+          "id": 525,
+          "name": "MapleStory [Jazz of Maple]"
+        },
+        {
+          "id": 526,
+          "name": "The Cygnus Garden [Jazz of Maple]"
+        },
+        {
+          "id": 527,
+          "name": "The Raindrop Flower [Jazz of Maple]"
+        },
+        {
+          "id": 528,
+          "name": "The Fantastic Thinking [Jazz of Maple]"
+        }
+      ]
+    }
+  }
+}

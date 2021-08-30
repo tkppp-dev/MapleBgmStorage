@@ -1,0 +1,93 @@
+<div id="player" class="wide-player">
+    <div id="side-player" class="col-auto pt-4 pb-2">
+        <div class="row justify-content-center align-items-center mb-2" style="height : 192px; overflow:hidden">
+            <div class="col-auto p-0">
+                <img id="bgm-thumbnail" src="./images/control-panel/album-cover.png" alt="">
+            </div>
+        </div>
+        <div class="row justify-content-center my-2">
+            <div class="bgm-title col-auto px-2"></div>
+        </div>
+        <div class="row justify-content-center my-1">
+            <img class="shuffle-btn control-panel-function col-auto p-0 mx-2"
+                src="./images/control-panel/control-panel-shuffle.png" role="button">
+            <img class="loop-btn control-panel-function col-auto p-0 mx-2"
+                src="./images/control-panel/control-panel-loopList.png" role="button">
+            <img class="volume-btn control-panel-function col-auto p-0 mx-2"
+                src="./images/control-panel/control-panel-volume.png" role="button">
+            <input type="range" class="volume-range px-0" min="0" max="1" step="0.1">
+        </div>
+        <div class="row justify-content-center mt-2">
+            <img class="prev-btn control-panel control-panel-move col-auto p-0 mx-2"
+                src="./images/control-panel/control-panel-previous.png" role="button">
+            <img class="play-btn control-panel-play col-auto p-0 mx-2 "
+                src="./images/control-panel/control-panel-play.png" role="button">
+            <img class="pause-btn control-panel-pause col-auto p-0 mx-2"
+                src="./images/control-panel/control-panel-pause.png" role="button">
+            <img class="next-btn control-panel control-panel-move col-auto p-0 mx-2"
+                src="./images/control-panel/control-panel-next.png" role="button">
+        </div>
+    </div>
+    <div id="play-list">
+        <div id="current-list-label" class="row justify-content-center border-top border-bottom">
+            <div class="col-auto p-0 my-1">
+                <strong>재생목록</strong>
+            </div>
+        </div>
+        <div id="current-play-list">
+        </div>
+    </div>
+</div>
+<div id="blank-player" class="col-auto p-0 wide-player"></div>
+<div id="bottom-player" class="row py-2 mx-0">
+    <div class="row col-auto">
+        <img class="prev-btn control-panel control-panel-move col-auto p-0 mx-1"
+            src="./images/control-panel/control-panel-previous.png" role="button">
+        <img class="play-btn control-panel-play col-auto p-0 mx-1 " 
+            src="./images/control-panel/control-panel-play.png" role="button">
+        <img class="pause-btn control-panel-pause col-auto p-0 mx-1" 
+            src="./images/control-panel/control-panel-pause.png" role="button">
+        <img class="next-btn control-panel control-panel-move col-auto p-0 mx-1"
+            src="./images/control-panel/control-panel-next.png" role="button">
+    </div>
+    <div class="row col-auto">
+        <img id="clip-btn" class="control-panel-function col-auto p-0 mx-2"
+            src="./images/control-panel/control-panel-clipping.png" role="button">
+        <img class="mobile-hidden shuffle-btn control-panel-function col-auto p-0 mx-2"
+            src="./images/control-panel/control-panel-shuffle.png" role="button">
+        <img class="mobile-hidden loop-btn control-panel-function col-auto p-0 mx-2"
+            src="./images/control-panel/control-panel-loopList.png" role="button">
+        <img class="mobile-hidden volume-btn control-panel-function col-auto p-0 mx-2"
+            src="./images/control-panel/control-panel-volume.png" role="button">
+        <input type="range" class="mobile-hidden volume-range px-0" min="0" max="1" step="0.01" value="0.5">
+    </div>
+    <div class="col px-0">
+        <div class="bgm-title col-auto px-2"></div>
+    </div>
+</div>
+<script>
+    window.addEventListener('load', () => {
+        const clipBtn = document.getElementById('clip-btn')
+        const hidden = document.getElementsByClassName('mobile-hidden')
+        
+        if(!Object.hasOwnProperty(hidden[0].style,'display')){
+            for(let v of hidden){
+                v.style.display = 'none'
+            }
+        }
+        clipBtn.addEventListener('click', () => {
+            if(hidden[0].style.display == 'none'){
+                for(let v of hidden){
+                    v.style.display = 'inline'
+                }
+                isClose = false
+            }
+            else{
+                for(let v of hidden){
+                    v.style.display = 'none'
+                }
+                isClose = true
+            }
+        })
+    })
+</script>

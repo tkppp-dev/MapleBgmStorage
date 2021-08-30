@@ -1,0 +1,28 @@
+.list-anker {
+    font-size: 13px;
+    color: black;
+}
+
+.list-anker-item {
+    text-decoration: none;
+    color: darkcyan
+}
+
+#open-shortcut-btn {
+    position: fixed;
+    top: 60px;
+    right: 0px;
+    width: 28px;
+    height: 46px;
+    background-color: white;
+}
+
+#open-left-img {
+    width: 20px;
+    height : 20px;
+}
+
+#offcanvas-shortcut {
+    overflow-y: scroll;
+    width : 276px;
+}

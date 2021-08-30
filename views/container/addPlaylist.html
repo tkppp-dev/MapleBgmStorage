@@ -1,0 +1,101 @@
+<!-- Modal -->
+<div class="modal fade" id="listSelectModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">추가할 재생목록 선택</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div id="playlist-modal-body" class="modal-body">
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-secondary" data-bs-dismiss="modal">취소</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    window.addEventListener('load', async function () {
+        createModal()
+    })
+
+    let currentSelectBgm
+    async function createModal() {
+        const addPlaylistBtn = document.getElementsByClassName('add-playlist')
+        const listSelectModal = document.getElementById('listSelectModal')
+
+        for (let v of addPlaylistBtn) {
+            v.addEventListener('click', async function (e) {
+                e.stopImmediatePropagation()
+                if (e.target.tagName === 'IMG') {
+                    currentSelectBgm = e.target.parentNode
+                } else {
+                    currentSelectBgm = e.target
+                }
+                const body = await getPlaylist()
+                const playlistModalBody = document.getElementById('playlist-modal-body')
+                playlistModalBody.innerHTML = body
+            })
+        }
+    }
+
+    async function getPlaylist() {
+        const res = await axios.get('/playlist')
+        const playlistModalBody = document.getElementById('playlist-modal-body')
+        let body = ''
+        if (!res.data.success) {
+            body = res.data.message
+        } else {
+            body += `<div role="button" onclick="addPlaylist()" class="pt-2 pb-1 px-1 border-bottom">
+                        <img src="./images/plus.png" style="width : 20px; height : 20px">
+                        <span>새 재생목록 추가</span></div>`
+            for (let v of res.data.listArr) {
+                body += `<div role="button" onclick="addPlaylistItem(${v.id})"
+                            class="py-1 px-2 border-bottom" data-bs-dismiss="modal" 
+                            data-bs-target="#listSelectModal" 
+                            aria-label="Close">${v.name}</div>`
+            }
+        }
+        return body
+    }
+
+    async function addPlaylist() {
+        const ret = prompt('추가할 재생목록의 이름을 입력하세요')
+        if (ret != null) {
+            try {
+                const res = await axios.post('/playlist', {
+                    name: ret
+                })
+                if (res.data.success) {
+                    alert(res.data.message)
+                    const body = await getPlaylist()
+                    const playlistModalBody = document.getElementById('playlist-modal-body')
+                    playlistModalBody.innerHTML = body
+                }
+            } catch (err) {
+                console.error(err)
+            }
+        }
+    }
+    async function addPlaylistItem(listId) {
+        for (let className of currentSelectBgm.classList) {
+            if (className.startsWith('bgmId-')) {
+                var bgmId = className.split('-')[1]
+                break
+            }
+        }
+        try {
+            const res = await axios.post('playlist/item', {
+                bgmId,
+                listId
+            })
+
+            setTimeout(() => {
+                alert(res.data.message)
+            }, 150)
+        } catch (err) {
+            console.error(err)
+        }
+    }
+</script>
