@@ -1,5 +1,6 @@
 # folder
 node_module/
+resources/
 
 # file
 .env
