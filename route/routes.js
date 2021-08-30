@@ -1,6 +1,5 @@
 const express = require('express')
 const fs = require('fs')
-
 const router = express.Router()
 const pageRouter = require('./page/pageRouter')
 const playerRouter = require('./player/playerRouter')
