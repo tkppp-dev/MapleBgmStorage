@@ -4,3 +4,4 @@ resources/
 
 # file
 .env
+.DS_Store
