@@ -1,0 +1,202 @@
+[
+  {
+    "name": "God Of Control - Lobby [갓 오브 컨트롤 - 로비,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "갓 오브 컨트롤",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "God Of Control - Stage [갓 오브 컨트롤 - 근성의 숲,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "갓 오브 컨트롤",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Castle Boss [영주의 방,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "기타 삭제 및 미사용",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Castle Inside [천수각,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "기타 삭제 및 미사용",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Castle Outside [벚꽃성 외곽,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "기타 삭제 및 미사용",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Cygnus [시그너스 기사단 소개,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "기타 삭제 및 미사용",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Ghost Ship [파퀘 안개바다의 유령선 - 난파된 유령선,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "기타 삭제 및 미사용",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Play With Me [커닝시티 PC방,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "기타 삭제 및 미사용",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Road To You [미사용 곡,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "기타 삭제 및 미사용",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Rock'n Battle [배틀 몬스터,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "기타 삭제 및 미사용",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Under Subway [몬스터 서바이벌 - 미개통 구간,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "기타 삭제 및 미사용",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Battle BGM Type A [대난투 - 사자왕의 성 탑루,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "대난투",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Battle BGM Type B [대난투 - 이글루 벌판,이끼나무 숲,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "대난투",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Battle BGM Type C [대난투 - 엘리쟈의 정원,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "대난투",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Battle BGM Type D [대난투 - 핑크빈의 음악감상,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "대난투",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Battle Entrance [대난투 - 배틀 스퀘어,삭제 및 미사용 음원]",
+    "category1": "기타",
+    "category2": "삭제 및 미사용",
+    "category3": "대난투",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Mapleland [로그인]",
+    "category1": "기타",
+    "category2": "시스템",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Mapleland2 [로그인]",
+    "category1": "기타",
+    "category2": "시스템",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Shop Bgm [캐시샵]",
+    "category1": "기타",
+    "category2": "시스템",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Ariant [Jazz of Maple]",
+    "category1": "기타",
+    "category2": "재즈 오브 메이플",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Login [Jazz of Maple]",
+    "category1": "기타",
+    "category2": "재즈 오브 메이플",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "MapleStory [Jazz of Maple]",
+    "category1": "기타",
+    "category2": "재즈 오브 메이플",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "The Cygnus Garden [Jazz of Maple]",
+    "category1": "기타",
+    "category2": "재즈 오브 메이플",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "The Fantastic Thinking [Jazz of Maple]",
+    "category1": "기타",
+    "category2": "재즈 오브 메이플",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "The Raindrop Flower [Jazz of Maple]",
+    "category1": "기타",
+    "category2": "재즈 오브 메이플",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  }
+]

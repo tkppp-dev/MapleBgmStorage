@@ -1,0 +1,1794 @@
+[
+  {
+    "name": "Dispute [마가티아,니할 사막]",
+    "category1": "메이플 월드",
+    "category2": "니할 사막",
+    "category3": "마가티아",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Ariant [아리안트,니할 사막]",
+    "category1": "메이플 월드",
+    "category2": "니할 사막",
+    "category3": "아리안트",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Fight Sand [파퀘 아리안트 투기대회,니할 사막]",
+    "category1": "메이플 월드",
+    "category2": "니할 사막",
+    "category3": "아리안트",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Hot Desert [(구)아리안트 필드,니할 사막]",
+    "category1": "메이플 월드",
+    "category2": "니할 사막",
+    "category3": "아리안트",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "HotDesert [아리안트 필드,니할 사막]",
+    "category1": "메이플 월드",
+    "category2": "니할 사막",
+    "category3": "아리안트",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Nets Piramid [네트의 피라미드,니할 사막]",
+    "category1": "메이플 월드",
+    "category2": "니할 사막",
+    "category3": "아리안트",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Sunset Desert [선셋로드 - 사헬지대,니할 사막]",
+    "category1": "메이플 월드",
+    "category2": "니할 사막",
+    "category3": "아리안트",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "In War time [(구)아스완 해방전,고대도시 아스완]",
+    "category1": "메이플 월드",
+    "category2": "니할 사막",
+    "category3": "아스완",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Red Witch [힐라의 탑,고대도시 아스완]",
+    "category1": "메이플 월드",
+    "category2": "니할 사막",
+    "category3": "아스완",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Rusty Throne [고대도시 아스완]",
+    "category1": "메이플 월드",
+    "category2": "니할 사막",
+    "category3": "아스완",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Bizarre Tales [뒤틀린 회랑,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Dark Shadow [파퀘 차원의 균열 - 탑의 암흑,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "FairyTale Diffvers [뒤틀린 시간의 길 3,4,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "FairyTale [뒤틀린 시간의 길 1,2,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Fantasia [파퀘 차원의 균열 - 버려진 탑,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Fantastic Thinking [루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Funny Time Maker [에오스탑,헬리오스탑,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "High Enough [에오스탑 외부,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "The Way Grotesque [잊혀진 회랑,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "They Menacing You [파퀘 차원의 균열 - 시공의 균열 알리샤르,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Time Attack [시계탑의 근원 파풀라투스,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Timeless [잊혀진 시간의 길 1,2,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "TimelessB [잊혀진 시간의 길 3,4,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Waltz For Work [장난감공장,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Wherever You Are [시간의 길,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "루디브리엄",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Dancing With Ghosts [고스트파크 - 고스트하우스,아랫마을]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "아랫마을",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Dark Mountain [까막산,아랫마을]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "아랫마을",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Down Town [아랫마을]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "아랫마을",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "This too shall pass away [금지된 절벽,아랫마을]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "아랫마을",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Unexpected crisis [아랫마을 퀘스트 진행 중 전투,아랫마을]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "아랫마을",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Welcome To The Creepy Ghost [고스트파크,아랫마을]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "아랫마을",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Deep Cave [동굴 깊은 곳 차우,엘린숲]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "엘린숲",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Elin Cave [바위산 동굴,엘린숲]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "엘린숲",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Elin Forest [알테어 캠프,엘린숲]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "엘린숲",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Poison Forest [(구)파퀘 독안개의 숲,엘린숲]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "엘린숲",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Poison Forest [파퀘 독안개의 숲,엘린숲]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "엘린숲",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Queens Hide out [여왕의 은신처 에피네아,엘린숲]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "엘린숲",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Dances With Aliens [UFO 내부,지구방위본부]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "지구방위본부",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Finding Forest [(구)쿨란 초원,지구방위본부]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "지구방위본부",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "For The Glory [격납고,지구방위본부]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "지구방위본부",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Go Go Rangers! [메소다이저 X,송린아 결심,지구방위본부]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "지구방위본부",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Lets Hunt Aliens [(구)로스웰 초원,지구방위본부]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "지구방위본부",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Lets Hunt Aliens [로스웰 초원,지구방위본부]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "지구방위본부",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Lets March [(구)지구방위본부]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "지구방위본부",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Lets March [지구방위본부]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "지구방위본부",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Vacuum Cleaner [환풍구 D-77 카웅,지구방위본부]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "지구방위본부",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Fantastic Theme Park 2017 [판타스틱 테마파크,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "판타스틱 테마파크",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Fantastic Theme Park [판타스틱 애니멀쇼,루디브리엄]",
+    "category1": "메이플 월드",
+    "category2": "루더스 호수",
+    "category3": "판타스틱 테마파크",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Bamboo Gym [리엔 수련장,리엔]",
+    "category1": "메이플 월드",
+    "category2": "리엔",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Crystal Cave [거울 동굴 설귀도,리엔]",
+    "category1": "메이플 월드",
+    "category2": "리엔",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Glacier Adventure [리에나 해협,리엔]",
+    "category1": "메이플 월드",
+    "category2": "리엔",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Rien Village [리엔]",
+    "category1": "메이플 월드",
+    "category2": "리엔",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Sailing [해양 한가운데,리엔]",
+    "category1": "메이플 월드",
+    "category2": "리엔",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Snow Drop [리엔 필드,리엔]",
+    "category1": "메이플 월드",
+    "category2": "리엔",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Go Fight! Show Your Energy! ~Instrumental~ [모험가 스토리 - 암허스트 외곽,메이플 아일랜드]",
+    "category1": "메이플 월드",
+    "category2": "메이플 아일랜드",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Maple Leaf [메이플 아일랜드]",
+    "category1": "메이플 월드",
+    "category2": "메이플 아일랜드",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Wounded Leaf [공격당한 메이플 아일랜드,메이플 아일랜드]",
+    "category1": "메이플 월드",
+    "category2": "메이플 아일랜드",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Mureung Forest [무릉 필드,무릉도원]",
+    "category1": "메이플 월드",
+    "category2": "무릉도원",
+    "category3": "무릉도원",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Mureung Hill [무릉도원]",
+    "category1": "메이플 월드",
+    "category2": "무릉도원",
+    "category3": "무릉도원",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Mureung School 1 [무릉도장 1,무릉도원]",
+    "category1": "메이플 월드",
+    "category2": "무릉도원",
+    "category3": "무릉도원",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Mureung School 2 [무릉도장 2,무릉도원]",
+    "category1": "메이플 월드",
+    "category2": "무릉도원",
+    "category3": "무릉도원",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Mureung School 3 무릉도장 3,무릉도원]",
+    "category1": "메이플 월드",
+    "category2": "무릉도원",
+    "category3": "무릉도원",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Mureung School 4 [무릉도장 4,무릉도원]",
+    "category1": "메이플 월드",
+    "category2": "무릉도원",
+    "category3": "무릉도원",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Pirate [빨간코 해적단 소굴,무릉도원]",
+    "category1": "메이플 월드",
+    "category2": "무릉도원",
+    "category3": "백초마을",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "White Herb [백초마을,무릉도원]",
+    "category1": "메이플 월드",
+    "category2": "무릉도원",
+    "category3": "백초마을",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Gold Temple Dungeon [버려진 사원,황금사원]",
+    "category1": "메이플 월드",
+    "category2": "무릉도원",
+    "category3": "황금사원",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Gold Temple Field [수행자의 숲,황금사원]",
+    "category1": "메이플 월드",
+    "category2": "무릉도원",
+    "category3": "황금사원",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Gold Temple Town [황금사원]",
+    "category1": "메이플 월드",
+    "category2": "무릉도원",
+    "category3": "황금사원",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "2021year - Park [2021년 평범한 마을,네오시티]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "네오시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "2099year - Odaiba [2099년 한밤의 항만 - 베르가모트,네오시티]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "네오시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "2215year - Akihabara [2215년 폭격을 맞은 도심 - 듀나스,네오시티]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "네오시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "2230year - Office [위험한 타워 - 오베론,네오시티]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "네오시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "2503year - Tokyo Sky [2503년 천공전함 헤르메스호 - 니벨룽겐 전함,네오시티]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "네오시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Tera Forest [테라숲,리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "네오시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Acient Forest [켄타우로스의 영역,리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "리프레",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Cave Of Hontale [생명의 동굴,리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "리프레",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Dragon Load [용의 숲,리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "리프레",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Dragon Nest [용의 협곡,용의 둥지,리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "리프레",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Dragon Rider [파퀘 드래곤 라이더 - 천공의 둥지,리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "리프레",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "HonTale [혼테일의 동굴 - 혼테일,리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "리프레",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Leafre [리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "리프레",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Minar's Dream [리프레 필드,리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "리프레",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "The Colossal Heart [암벽 거인의 내부,리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "암벽거인",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "The Living Mountain [암벽 거인의 몸,리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "암벽거인",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "The Raiders [암벽 거인 탐사 현장,리프레]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "암벽거인",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Hekaton [왕궁 트뤼에페 - 헤카톤,크리티아스]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "크리티아스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "In Ruin In Vain [크리티아스 폐허,크리티아스]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "크리티아스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Stop In Ends [군단장 침공전 - 크리티아스 거리,크리티아스]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "크리티아스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Stop In Hudreds [크리티아스 거리,크리티아스]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "크리티아스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Tragic Forest [크리티아스 필드,크리티아스]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "크리티아스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Tragic Restart [군단장 침공전 - 크리티아스 필드,크리티아스]",
+    "category1": "메이플 월드",
+    "category2": "미나르숲",
+    "category3": "크리티아스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Gold Beach [골드비치,빅토리아 아일랜드]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Beach Way [플로리나 비치,메이플 월드]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "노틸러스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "In Nautilus [노틸러스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "노틸러스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Nautilus [노틸러스 선착장,코코섬,노틸러스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "노틸러스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Abyss Cave [북쪽정원 심연의 동굴 벨룸,루타비스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "루타비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Joyful Tea Party [서쪽정원 오후의 티 테이블 피에르,루타비스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "루타비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Queen Palace [남쪽정원 여왕의 성 블러디 퀸,루타비스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "루타비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Time Chaos [동쪽정원 시간의 틈새 반반,루타비스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "루타비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Yggdrasil Prayer [거대한 뿌리,루타비스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "루타비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Above The Treetops [리스항구,빅토리아 아일랜드]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "리스항구",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Burning Woods [루미너스 스토리 - 파괴된 라니아의 집,세레니티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "세레니티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "DarkMage [루미너스 튜토리얼 - 검은 마법사의 방,세레니티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "세레니티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "DarkWoods [어둠에 물든 엘리니아 깊은 숲 속,세레니티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "세레니티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Final Fight [루미너스 튜토리얼 - 시간의 신전 회랑,세레니티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "세레니티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Flood [루미너스 스토리 - 운명의 갈림길,세레니티] ",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "세레니티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Peaceful Woods [라니아의 집,세레니티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "세레니티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Serenity [세레니티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "세레니티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Speak In The Void [검은 마법사의 전언,세레니티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "세레니티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Ancient Move [개미굴,슬리피우드]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "슬리피우드",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Evil Eyes [저주받은 신전,슬리피우드]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "슬리피우드",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "SleepyWood [슬리피우드]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "슬리피우드",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Flower In Blue [메르세데스 튜토리얼,에우렐]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "에우렐",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Sound Of Elf [엘프의 정신 강림,에우렐]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "에우렐",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Wind And Flower [요정의 숲 에우렐]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "에우렐",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Elf wood [(구)마법 도서관,엘리니아]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "엘리니아",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Luens House [루엔의 집,엘리니아]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "엘리니아",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Missing You [나무줄기둥지,엘리니아]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "엘리니아",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "MoleKing Rises [야외 연극 무대 몰 킹,엘리니아]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "엘리니아",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Moonlight Shadow [엘리니아 필드,엘리니아]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "엘리니아",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Secret Elodin [비밀의 숲 엘로딘,엘리니아]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "엘리니아",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "The Fairy Academy [요정학원 엘리넬,엘리니아]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "엘리니아",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "The Fairy Forest [한 여름밤의 숲,엘리넬 호수,엘리니아]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "엘리니아",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "When The Morning Comes [엘리니아]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "엘리니아",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Bad Guys [커닝시티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "커닝시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "JungleBook [늪지대,커닝시티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "커닝시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Kerning Square Field [커닝스퀘어 필드,커닝시티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "커닝시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Kerning Square Subway [생방송 데뷔 무대 락 스피릿,정비중인 지하철,커닝시티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "커닝시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Kerning Square [(구)커닝스퀘어,커닝시티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "커닝시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Kerning Square [커닝스퀘어,커닝시티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "커닝시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Little Maple Planet [파퀘 첫번째 동행 마지막 관문 - 킹슬라임,14주년 우주 Like 메이플 - 행성 쁘띠 리틀 메이플 플래닛,커닝시티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "커닝시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Love In the Afternoon [커닝타워,커닝시티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "커닝시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Secret Flower [비화원,커닝시티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "커닝시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Subway [커닝시티 지하철,커닝시티]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "커닝시티",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Dancing Witn The Moon [크리스탈 가든 수련장 & 항해,크리스탈 가든]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "크리스탈 가든",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Fly to the Moon [크리스탈 가든]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "크리스탈 가든",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Injustice [팬텀 튜토리얼 - 에레브 대회의장,크리스탈 가든]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "크리스탈 가든",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Acient Remain [유적 발굴지,페리온]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "페리온",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Highland Star [돌무지 황야,불타버린 땅,페리온]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "페리온",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Nightmare [페리온]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "페리온",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Ruin Castle [군영,페리온]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "페리온",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Where The Barlog From [(구)전사의 성전,페리온]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "페리온",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "BlueSky [꿈꾸는 오솔길,(구)니은숲,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "CavaBien [바람꽃수풀,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Dragon Dream [에반 튜토리얼 꿈속,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Floral Life [헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Flower Violeta [버섯의 성 엔딩,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Go Picnic [헤네시스 시장,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Mushroom Castle [버섯의 성,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Pathfinder [패스파인더,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Rest N Peace [헤네시스 필드,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "The Partem Ruins [파르템 유적,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "The Village Of Karupa [카루파의 마을,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Viking Ship [바이킹 비행선,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Viking Skipper [바이킹 선장실,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "War MushCastle [성벽 위,마천루,헤네시스]",
+    "category1": "메이플 월드",
+    "category2": "빅토리아 아일랜드",
+    "category3": "헤네시스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Altar Of Akayrum [아카이럼의 제단 - 아카이럼,시간의 신전]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Crack Of Dimension [비틀린 시간의 신전,시간의 신전]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Time Temple [시간의 신전]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Dusk of God [잊혀진 황혼,시간의 신전]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "과거의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Fighting Pink Been [신들의 황혼 - 핑크빈,시간의 신전]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "과거의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Forgetfulness [망각의 길,시간의 신전]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "과거의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Remembrance [추억의 길,시간의 신전]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "과거의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Repentance [후회의 길,시간의 신전]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "과거의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Cygnus Garden [시그너스의 전당 - 시그너스,미래의 문]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "미래의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Destruction Perion Shelter [황혼의 페리온,미래의 문]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "미래의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Destruction Perion [(구)황혼의 페리온 필드,미래의 문]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "미래의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Destruction Perion [황혼의 페리온 필드,미래의 문]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "미래의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Destruction Town [파괴된 헤네시스,미래의 문]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "미래의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Knights Stronghold [기사단의 요새,미래의 문]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "미래의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Time Gate [미래의 문,시간의 신전]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "미래의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Against The Dark [모험가 스토리 - 검은 마법사의 방,현재의 문]",
+    "category1": "메이플 월드",
+    "category2": "시간의 신전",
+    "category3": "현재의 문",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "From Under To Upper [제논 튜토리얼 - 숨겨진 연구소 격납고,베리타스]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "베리타스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "In All Verity [비밀연구기관 베리타스]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "베리타스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Pulse Resonance [베릴,베리타스]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "베리타스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "The Photo [비어있는 집,베리타스]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "베리타스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Underside [제논 튜토리얼 - 숨겨진 연구소 실험실,베리타스]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "베리타스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Aqua Cave [위험한 동굴 - 피아누스의 동굴,아쿠아리움]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "아쿠아리움",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Aquarium [아쿠아리움]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "아쿠아리움",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Blue World [아쿠아리움 필드1,아쿠아리움]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "아쿠아리움",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Deep See [심해,아쿠아리움]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "아쿠아리움",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Shining Sea [아쿠아리움 필드2,아쿠아리움]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "아쿠아리움",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Amusing Story In The FairyTale [더 시드 보스층,해저의 탑 더 시드]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "해저의 탑 더 시드",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Hazard From Cave [더 시드 26,27,34층,해저의 탑 더 시드]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "해저의 탑 더 시드",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Jungle In The Sea [더 시드 11,12,13,14,33,48층,해저의 탑 더 시드]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "해저의 탑 더 시드",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Strange Sort Of Story [더 시드 47,49,50층 & 토토,도로시,해저의 탑 더 시드]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "해저의 탑 더 시드",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "The Bottom Of The Sea [더 시드 쉼터,해저의 탑 더 시드]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "해저의 탑 더 시드",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Venture Into The Unkown [더 시드 로비,해저의 탑 더 시드]",
+    "category1": "메이플 월드",
+    "category2": "아쿠아로드",
+    "category3": "해저의 탑 더 시드",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Decisive Battle [데몬 튜토리얼 - 검은 마법사의 방 앞 회랑,에델슈타인]",
+    "category1": "메이플 월드",
+    "category2": "에델슈타인",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Despair On Devil [데몬 튜토리얼 - 데몬의 고향 집,에델슈타인]",
+    "category1": "메이플 월드",
+    "category2": "에델슈타인",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Edelstein City [에델슈타인]",
+    "category1": "메이플 월드",
+    "category2": "에델슈타인",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Evolving World [이볼빙 시스템,에델슈타인]",
+    "category1": "메이플 월드",
+    "category2": "에델슈타인",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Gelimer Lab [겔리메르 연구소,에델슈타인]",
+    "category1": "메이플 월드",
+    "category2": "에델슈타인",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Haven Theme [기계무덤 헤이븐,에델슈타인]",
+    "category1": "메이플 월드",
+    "category2": "에델슈타인",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Low Grade Ore [(구)광산입구,에델슈타인]",
+    "category1": "메이플 월드",
+    "category2": "에델슈타인",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Low Grade Ore [광산입구,에델슈타인]",
+    "category1": "메이플 월드",
+    "category2": "에델슈타인",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "National Park [에델슈타인 필드,에델슈타인]",
+    "category1": "메이플 월드",
+    "category2": "에델슈타인",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Power Station [레벤 광산,에델슈타인]",
+    "category1": "메이플 월드",
+    "category2": "에델슈타인",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Underground Place [레지스탕스 본부,에델슈타인]",
+    "category1": "메이플 월드",
+    "category2": "에델슈타인",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Dominion [나이트워커 스킬,에레브]",
+    "category1": "메이플 월드",
+    "category2": "에레브",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Drill Hall [연무장,에레브]",
+    "category1": "메이플 월드",
+    "category2": "에레브",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Queens Garden [에레브]",
+    "category1": "메이플 월드",
+    "category2": "에레브",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Raindrop Flower [에레브 필드,에레브]",
+    "category1": "메이플 월드",
+    "category2": "에레브",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Abondoned Mine [폐광,엘나스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "엘나스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Blizzard Castle [사자왕의 성,엘나스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "엘나스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Crimson Tower [탑루 - 장미정원,엘나스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "엘나스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Final Fight [(구)자쿰의 제단 - 자쿰]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "엘나스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Hell Gate [시련의 동굴,엘나스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "엘나스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Lion Heart [알현실 - 반레온,엘나스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "엘나스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Mine Quest [자쿰 퀘스트 - 알려지지 않은 폐광,엘나스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "엘나스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Snowy Village [엘나스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "엘나스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Warm Regard [엘나스 필드,엘나스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "엘나스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Welcome To The Hell [자쿰의 제단 - 자쿰,엘나스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "엘나스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Wolf Wood [늑대의 영역,엘나스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "엘나스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Arab Pirate [크림슨 발록,오르비스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "오르비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Come With Me [오르비스 탑,오르비스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "오르비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Flying In A Blue Dream [루디브리엄 행,오르비스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "오르비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Krease Agit [파퀘 크리세의 크세르크세스 - 아지트,오르비스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "오르비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Krease Colosseum [파퀘 크리세의 크세르크세스 - 콜로세움,오르비스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "오르비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Krease Field [파퀘 크리세의 크세르크세스,오르비스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "오르비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Plot Of Pixie [파퀘 여신의 흔적 - 여신의 탑 정원 파파루스,오르비스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "오르비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Shinin' Harbor [오르비스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "오르비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Tower Of Goddess [파퀘 여신의 흔적 - 여신의 탑,오르비스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "오르비스",
+    "depth": 3,
+    "type": "field"
+  },
+  {
+    "name": "Upon The Sky [빅토리아-오시리아 항해,오르비스]",
+    "category1": "메이플 월드",
+    "category2": "엘나스 산맥",
+    "category3": "오르비스",
+    "depth": 3,
+    "type": "field"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Adeles Oath [아델 각성,리스토니아]",
+    "category1": "그란디스",
+    "category2": "리스토니아",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "For Einherjar [아델 튜토리얼 - 기억 회상,리스토니아]",
+    "category1": "그란디스",
+    "category2": "리스토니아",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Masked Heart [저택,리스토니아]",
+    "category1": "그란디스",
+    "category2": "리스토니아",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Romantic Sunset [리스토니아]",
+    "category1": "그란디스",
+    "category2": "리스토니아",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Street piano [거리의 악사 에밀 - 피아노 연주,리스토니아]",
+    "category1": "그란디스",
+    "category2": "리스토니아",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "The Walls of Tragedy [비극의 성벽,리스토니아]",
+    "category1": "그란디스",
+    "category2": "리스토니아",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Where The Secret Lies [지하 통로,리스토니아]",
+    "category1": "그란디스",
+    "category2": "리스토니아",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Decision [은월 튜토리얼 - 희생,미우미우]",
+    "category1": "그란디스",
+    "category2": "미우미우",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Fox Village [뾰족귀 여우마을,미우미우]",
+    "category1": "그란디스",
+    "category2": "미우미우",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Over The Clouds Rhythmic Ver [수호령의 산책로(퀘스트),미우미우]",
+    "category1": "그란디스",
+    "category2": "미우미우",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Over The Clouds [구름 너머,미우미우]",
+    "category1": "그란디스",
+    "category2": "미우미우",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Sad Fox Village [비 내리는 뾰족귀 여우마을,미우미우]",
+    "category1": "그란디스",
+    "category2": "미우미우",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Dooms day [아크 튜토리얼,베르딜]",
+    "category1": "그란디스",
+    "category2": "베르딜",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Memory [아크 기억 회상,베르딜]",
+    "category1": "그란디스",
+    "category2": "베르딜",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Verdel Dungeon [사막동굴,베르딜]",
+    "category1": "그란디스",
+    "category2": "베르딜",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Verdel Field [모래폭풍지대,베르딜]",
+    "category1": "그란디스",
+    "category2": "베르딜",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Verdel Town [카라반 피난처,베르딜]",
+    "category1": "그란디스",
+    "category2": "베르딜",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Hunting Ground [새비지 터미널 필드,새비지 터미널]",
+    "category1": "그란디스",
+    "category2": "새비지 터미널",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Los Gurugers [구루거 서식지,새비지 터미널]",
+    "category1": "그란디스",
+    "category2": "새비지 터미널",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Savage Terminal [새비지 터미널]",
+    "category1": "그란디스",
+    "category2": "새비지 터미널",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Apostles [사도,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Battle Of Cernium [불타는 세르니움,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Borderless [세계의 경계,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Burning City [불타는 도시,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "EdelsteinCity Mastered [The Day After - 해방된 에델슈타인,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Glory Base [신 전초기지,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Grave yard Of Sword [검의 무덤,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Holy War [습격당한 세르니움,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Journey Music Box Mastered [The Day After - 메르세데스 오르골,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Overlord Of Life [제른 다르모어,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Red Moon [레프군 주둔지,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Rising Sun [각성 세렌,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Sanctuary Of Mitra [성검이 보관된 곳,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Sea Wave [해변 암석지대,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "The Holy Land [세르니움,신의 도시 세르니움]",
+    "category1": "그란디스",
+    "category2": "신의 도시 세르니움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Cheong Un [청운골,청운]",
+    "category1": "그란디스",
+    "category2": "청운",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Creepy Temple [미남 법사의 사원,청운]",
+    "category1": "그란디스",
+    "category2": "청운",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Riding On The Clouds [근두운,청운]",
+    "category1": "그란디스",
+    "category2": "청운",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "SeonYuSan [호영 튜토리얼 - 선유산 기슭,청운]",
+    "category1": "그란디스",
+    "category2": "청운",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Dispossessed Anger [카인 튜토리얼 - 습격,보스의 방,툴렌시티]",
+    "category1": "그란디스",
+    "category2": "툴렌시티",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Doubt You [카인 튜토리얼 - 의심,툴렌시티]",
+    "category1": "그란디스",
+    "category2": "툴렌시티",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Happy Birthday My Dear Short [카인 2차 전직,툴렌시티]",
+    "category1": "그란디스",
+    "category2": "툴렌시티",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Happy Birthday My Dear [카인 튜토리얼 - 기억,툴렌시티]",
+    "category1": "그란디스",
+    "category2": "툴렌시티",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Heavy Rain [카인 튜토리얼 - 비,툴렌시티]",
+    "category1": "그란디스",
+    "category2": "툴렌시티",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Malice [툴렌시티 - 카인 튜토리얼 이후,카인 3차,4차 전직,툴렌시티]",
+    "category1": "그란디스",
+    "category2": "툴렌시티",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "The Dispossessed [툴렌시티 내부,툴렌시티]",
+    "category1": "그란디스",
+    "category2": "툴렌시티",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Toolen City [툴렌시티]",
+    "category1": "그란디스",
+    "category2": "툴렌시티",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "5th SpotLight FlyAway [엔젤릭버스터 스킬 - 스포트라이트]",
+    "category1": "그란디스",
+    "category2": "판테온",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Angels Room [엔젤릭버스터의 방,판테온]",
+    "category1": "그란디스",
+    "category2": "판테온",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Base Of Betrayers [변절자의 기지,판테온]",
+    "category1": "그란디스",
+    "category2": "판테온",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Border Area [경계 전장,판테온]",
+    "category1": "그란디스",
+    "category2": "판테온",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Great Temple [판테온 대신전,판테온]",
+    "category1": "그란디스",
+    "category2": "판테온",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Nova Sanctum [판테온 성소,판테온]",
+    "category1": "그란디스",
+    "category2": "판테온",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Pantheon Field [판테온 필드,판테온]",
+    "category1": "그란디스",
+    "category2": "판테온",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Pantheon [판테온]",
+    "category1": "그란디스",
+    "category2": "판테온",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Step Of Kaiser [카이저 튜토리얼 - 헬리시움 외곽,판테온]",
+    "category1": "그란디스",
+    "category2": "판테온",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Trapped Kaiser [카이저 튜토리얼 - 매그너스 기습,판테온]",
+    "category1": "그란디스",
+    "category2": "판테온",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Citadel of Tyrant [폭군의 성채,헬리시움]",
+    "category1": "그란디스",
+    "category2": "헬리시움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Funky Black Market [도심지 암시장,헬리시움]",
+    "category1": "그란디스",
+    "category2": "헬리시움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Helisium Field [헬리시움 도심 필드,헬리시움]",
+    "category1": "그란디스",
+    "category2": "헬리시움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Helisium Mystic Forest [헬리시움 필드,헬리시움]",
+    "category1": "그란디스",
+    "category2": "헬리시움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Helisium Warcry [헬리시움 탈환 전장,헬리시움]",
+    "category1": "그란디스",
+    "category2": "헬리시움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Retake [헬리시움 탈환 본부,헬리시움]",
+    "category1": "그란디스",
+    "category2": "헬리시움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "The Final War [폭군의 왕좌 - 매그너스,헬리시움]",
+    "category1": "그란디스",
+    "category2": "헬리시움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Trinity Force [트레글로의 실험실,빅터의 공방,벨데로스의 집무실,헬리시움]",
+    "category1": "그란디스",
+    "category2": "헬리시움",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "A mecanic with a wander [러스티와 아켈론,호텔 아르크스]",
+    "category1": "그란디스",
+    "category2": "호텔 아르크스",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Lonesome Cinema [낭만이 저무는 자동차 극장,호텔 아르크스]",
+    "category1": "그란디스",
+    "category2": "호텔 아르크스",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Train heading nowhere [종착지 없는 횡단열차,호텔 아르크스]",
+    "category1": "그란디스",
+    "category2": "호텔 아르크스",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Wayout of the wilderness [몰락한 황야의 도시,호텔 아르크스]",
+    "category1": "그란디스",
+    "category2": "호텔 아르크스",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  },
+  {
+    "name": "Welcome to Arcs Hotel [호텔 아르크스 로비,호텔 아르크스]",
+    "category1": "그란디스",
+    "category2": "호텔 아르크스",
+    "category3": null,
+    "depth": 2,
+    "type": "field"
+  }
+]
