@@ -80,8 +80,8 @@ app.use(passport.initialize())
 app.use(passport.session())
 
 // routing
-const indexRouter = require('./route/routes')
-app.use('/', indexRouter)
+const routing = require('./route/routes')
+app.use('/', routing)
 
 // error middleware
 app.use((req, res, next) => {
