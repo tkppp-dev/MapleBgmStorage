@@ -9,7 +9,7 @@ http://storage-maplebgm.ml
 - 프론트엔드 : HTML, Javascript, CSS
 - 백엔드 : Node.js, Express.js, MySQL
 - 템플릿 엔진 : Nunjucks
-- 데브옵스 : AWS EC2, AWS RDS, Route53
+- 데브옵스 : GIT, AWS EC2, AWS RDS, Route53
 
 
 추후 해볼것
