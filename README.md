@@ -2,7 +2,7 @@
 
 내가 쓰기 위해 만든 메이플스토리 BGM 스트리밍 서비스
 
-주소 : http://storage-maplebgm.ml
+http://storage-maplebgm.ml
 
 기술 스택
 
