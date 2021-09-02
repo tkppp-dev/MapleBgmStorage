@@ -23,6 +23,7 @@ app.use(express.static(__dirname + '/public'))
 app.use(express.json())
 app.use(express.urlencoded({ extended : false}))
 app.use(cookieParser(process.env.COOKIE_SECRET))
+
 // https 적용을 위해 앞단에 서버를 둘경우 proxy : true, cookie.secure : true로 설정해야 함
 const sessionOpt = {
     resave : false,
@@ -105,3 +106,5 @@ app.use((err, req, res, next) =>{
 app.listen(app.get('port'), () => {
     console.log('Server On')
 })
+
+module.exports = app
