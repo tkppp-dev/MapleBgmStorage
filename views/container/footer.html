@@ -1,0 +1,26 @@
+<div id="footer-blank" class="mt-3"></div>
+<footer id="footer" class="row py-4" style="background-color: #494949;">
+    <div class="col border-end pe-3 me-5 text-center " style="font-size : 12px; color : lightgrey">
+        <p class="my-0 ps-2">모든 BGM에 대한 저작권은 넥슨과 메이플스토리에 있습니다</p>
+        <p class="my-0 ps-2">Contact : taekg.park@gmail.com</p>
+        <p class="my-0 ps-2">Github : https://github.com/tkppp-dev/MapleBgmStorage</p>
+    </div>
+    <div class="col-auto px-3 me-5">
+        <p class="text-center text-muted pt-3" style="font-size : 13px; color : white">&copy; 2021 MapleBgmStorage</p>
+    </div>
+</footer>
+<script>
+    window.addEventListener('load', () => {
+        setFooterPosition()
+    })
+
+    function setFooterPosition(){
+        const footer = document.getElementById('footer')
+        const rect = footer.getClientRects()[0]
+        if(window.innerHeight > rect.bottom){
+            const blank = document.getElementById('footer-blank')
+
+            blank.style.height = window.innerHeight - rect.bottom + 'px'
+        }
+    }
+</script>

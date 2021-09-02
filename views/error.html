@@ -11,7 +11,7 @@
 
 <body>
     {% include "container/nav.html" %}
-    <div class="container">
+    <div class="container pt-5">
         <div class="row justify-content-center mt-5 mb-3">
             <div class="col-auto">
                 <img src="./images/error.png" alt="" style="height : 240px">
@@ -23,6 +23,9 @@
         <div class="row justify-content-center mt-3 mb-3">
             <button id="move-btn" class="btn btn-lg border-dark border-2 col-auto">메인 페이지로 이동</button>
         </div>
+    </div>
+    <div class="container-fluid">
+        {% include "container/footer.html" %}
     </div>
     <script src="./js/nav.js"></script>
     <script>
