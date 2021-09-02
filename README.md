@@ -6,7 +6,7 @@ http://storage-maplebgm.ml
 
 기술 스택
 
-- 프론트엔드 : HTML, Javascript, css
+- 프론트엔드 : HTML, Javascript, CSS
 - 백엔드 : Node.js, Express.js, MySQL
 - 템플릿 엔진 : Nunjucks
 - 데브옵스 : AWS EC2, AWS RDS, Route53
