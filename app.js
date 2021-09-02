@@ -14,7 +14,7 @@ dotenv.config()
 
 // middleware setting
 if(process.env.NODE_ENV === 'production'){
-    app.use(logger('combine'))
+    app.use(logger('combined'))
 }
 else{
     app.use(logger('dev'))
